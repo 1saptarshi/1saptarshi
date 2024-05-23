@@ -1,6 +1,7 @@
 
 ![web and app developer](https://pbs.twimg.com/profile_banners/1510632132875460624/1711036254/1080x360)
-# Hi there 👋,  my name is Saptarshi Chowdhury
+# Hi there 👋,
+## my name is Saptarshi Chowdhury
 ## web and app developer
  
 Passionate software developer 🚀 | Full-stack expert in Java, Dart, & JavaScript | Cloud computing , Blockchain ,AI aficionado | Always learning and exploring
@@ -10,7 +11,13 @@ Skills:  / REACT / JS / HTML / CSS / TELWIND CSS / JAVA / REDUX /NODE.JS / AWS /
 - 🔭 I’m currently working on Blockchain-based social media application 
 - 🌱 I’m currently learning Typescript /SpringBoot / Redux /Blockchain  
 - 👯 I’m looking to collaborate on GitHub 
-- 📫 How to reach me: Linkedin / x  
+- 📫 How to reach me: Linkedin / x
+
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/1saptarshi)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=1saptarshi)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/1saptarshi)  
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
