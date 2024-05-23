@@ -1,5 +1,4 @@
-![github-header-image](https://github.com/1saptarshi/1saptarshi/assets/142312774/32244b42-760e-4d48-b7d1-ec52444fc14f)
-
+ ![scx](https://github.com/1saptarshi/1saptarshi/assets/142312774/b034d176-240f-4cce-982a-86620f2306b7)
 # Hi there 👋,
 ## my name is Saptarshi Chowdhury
 ## web and app developer
