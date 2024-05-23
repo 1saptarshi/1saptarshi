@@ -6,8 +6,9 @@
 Skills:  / REACT / JS / HTML / CSS / TELWIND CSS / JAVA / REDUX /NODE.JS / AWS / SPRINGBOOT / POSTMAN /  MYSQL / DOCKER /  NPM / WORDPRESS / FIGMA / ADOBE XD / 
 - 🔭 I’m currently working on Blockchain-based social media application 
 - 🌱 I’m currently learning Typescript /SpringBoot / Redux /Blockchain  
-- 👯 I’m looking to collaborate on GitHub 
-- 📫 How to reach me: Linkedin / x
+- 👯 I’m looking to collaborate on GitHub
+- - 📫 How to reach me: Linkedin / x
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/1saptarshi)  
 [![trophy](https://github-profile-trophy.vercel.app/?username=1saptarshi)](https://github.com/ryo-ma/github-profile-trophy)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/1saptarshi)  
