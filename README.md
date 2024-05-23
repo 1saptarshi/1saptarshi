@@ -1,4 +1,5 @@
-![web and app developer](https://pbs.twimg.com/profile_banners/1510632132875460624/1711036254/1080x360)
+![github-header-image](https://github.com/1saptarshi/1saptarshi/assets/142312774/32244b42-760e-4d48-b7d1-ec52444fc14f)
+
 # Hi there 👋,
 ## my name is Saptarshi Chowdhury
 ## web and app developer
