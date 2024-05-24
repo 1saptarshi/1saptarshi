@@ -1,4 +1,4 @@
-[ ![headpc](https://github.com/1saptarshi/1saptarshi/assets/142312774/aac1f1e1-5728-4640-84ad-885d459a5217)](https://pbs.twimg.com/profile_banners/1510632132875460624/1716561479/1080x360)
+ https://pbs.twimg.com/profile_banners/1510632132875460624/1716561479/1080x360
 
 <h1 align="center">Hi 👋, I'm Saptarshi Chowdhury</h1>
 <h3 align="center">full stack web and app developer</h3>
