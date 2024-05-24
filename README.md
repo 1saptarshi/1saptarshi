@@ -1,4 +1,4 @@
-![headpc](https://github.com/1saptarshi/1saptarshi/assets/142312774/aac1f1e1-5728-4640-84ad-885d459a5217)
+<div class=" width:full" ![headpc](https://github.com/1saptarshi/1saptarshi/assets/142312774/aac1f1e1-5728-4640-84ad-885d459a5217)></div>
 
 <h1 align="center">Hi 👋, I'm Saptarshi Chowdhury</h1>
 <h3 align="center">full stack web and app developer</h3>
