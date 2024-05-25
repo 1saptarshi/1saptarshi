@@ -1,6 +1,4 @@
 ![JPG](https://github.com/1saptarshi/1saptarshi/assets/142312774/dd50418c-a267-4076-9ef0-448a826a726a)
-
-
 <h1 align="center">Hi 👋, I'm Saptarshi Chowdhury</h1>
 <h3 align="center">full stack web and app developer</h3>
 
