@@ -13,11 +13,10 @@
 - 🌱 I’m currently learning **SpringBoot / NEXTjs / TypeScript / Redux / Solidity**
 
 - 👯 I’m looking to collaborate on [GitHub](https://github.com/users/1saptarshi/projects/2/views/1)
-- <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px"
-            src="![s-ezgif com-gif-maker](https://github.com/1saptarshi/1saptarshi/assets/142312774/5dcf23d4-10f6-49a8-969d-bcf13812fdce)
-" alt="React"
-            height="50" /></a>
+-  <div align="right">
+            ![s-ezgif com-gif-maker](https://github.com/1saptarshi/1saptarshi/assets/142312774/433c558a-b4f6-4b47-8d2f-bade77e4cd8a)
 
+</div>
 - 🤝 I’m looking for help with [blockchain-based social media application (Echo)](https://github.com/users/1saptarshi/projects/2/views/1)
 
 - 👨‍💻 All of my projects are available at [https://github.com/1saptarshi](https://github.com/1saptarshi)
