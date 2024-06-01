@@ -114,7 +114,7 @@
     <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px"
             src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>
     <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js"
+            src="https://i0.wp.com/exportandexpand.com/wp-content/uploads/2021/05/cropped-android-chrome-512x512-1.png?fit=512%2C512&ssl=1" alt="Express.js"
             height="50" /></a>
     <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px"
             src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android"
