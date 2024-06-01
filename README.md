@@ -20,9 +20,6 @@
 
 - 📝 I regularly write articles on [https://github.com/1saptarshi/my_blog](https://github.com/1saptarshi/my_blog)
 
--  
-
-
 - 💬 Ask me about **WEB AND APP DEV**
 
 - 📫 How to reach me **saptarshichowdhury860@gmail.com**
