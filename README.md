@@ -140,8 +140,8 @@
 </div>
 
 
-<h3 align="left">Support:</h3>
-<a href="https://www.buymeacoffee.com/1Saptarshi"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=1Saptarshi&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>    
+<h3 align="center">Support:</h3>
+<a align="center" href="https://www.buymeacoffee.com/1Saptarshi"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=1Saptarshi&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>    
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=1saptarshi&show_icons=true&locale=en&layout=compact" alt="1saptarshi" /></p>
 
