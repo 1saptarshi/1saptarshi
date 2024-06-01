@@ -36,7 +36,7 @@
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="linkedin"
             height="50" /></a>
     <a href="https://x.com/saptarshi177" target="_blank"><img style="margin: 10px"
-            src="https://seeklogo.com/images/B/buy-me-a-coffee-logo-F1878A1EB2-seeklogo.com.png" alt="x"
+            src="https://miro.medium.com/v2/da:true/resize:fit:480/0*X9tbxUUloPowCJnn.gif" alt="x"
             height="50"/></a>
 </p>
 
