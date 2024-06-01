@@ -26,8 +26,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
- <a href="https://www.linkedin.com/in/saptarshi-chowdhury-ba1972234/" target="_blank"><img style="margin: 10px"
-            src="[https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png](https://cdn2.vectorstock.com/i/1000x1000/61/96/twitter-new-logo-icons-x-vector-48766196.jpg)" alt="linkedin"
+ <a href="[https://www.linkedin.com/in/saptarshi-chowdhury-ba1972234/](https://x.com/Saptarshi177)" target="_blank"><img style="margin: 10px"
+            src="[https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png]" alt="x"
             height="50"/></a>
     <a href="https://www.linkedin.com/in/saptarshi-chowdhury-ba1972234/" target="_blank"><img style="margin: 10px"
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="linkedin"
