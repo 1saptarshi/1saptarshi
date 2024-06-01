@@ -26,16 +26,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/@saptarshi177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@saptarshi177" height="30" width="40" /></a>
-<a href="[https://www.linkedin.com/in/saptarshi-chowdhury-ba1972234/](https://instagram.com/1saptarshi_chowdhury_)" target="_blank"><img style="margin: 10px"
-            src="[https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)" alt="linkedin"
-            height="50" /></a>
-  
-<a href="[https://www.linkedin.com/in/saptarshi-chowdhury-ba1972234/](https://instagram.com/1saptarshi_chowdhury_)" target="_blank"><img style="margin: 10px"
-            src="[https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)" alt="linkedin"
-            height="50" /></a>
-            
-<a href="https://www.linkedin.com/in/saptarshi-chowdhury-ba1972234/" target="_blank"><img style="margin: 10px"
+ <a href="https://www.linkedin.com/in/saptarshi-chowdhury-ba1972234/" target="_blank"><img style="margin: 10px"
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="linkedin"
             height="50" /></a>
 </p>
