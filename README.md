@@ -136,7 +136,7 @@
             src="https://img.stackshare.io/service/1161/vI0ZZlhZ_400x400.png"
             alt="socket.io" height="50" /></a>
     <a href="https://ethereum.org/en/" target="_blank"><img style="margin: 10px"
-            src="https://www.svgrepo.com/show/341796/ethereum.svg" alt="ethereum" height="50" /></a>
+            src="https://logowik.com/content/uploads/images/ethereum3649.jpg" alt="ethereum" height="50" /></a>
 </div>
 
 
