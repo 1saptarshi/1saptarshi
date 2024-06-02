@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **SpringBoot / NEXTjs / TypeScript / Redux / Solidity**
 
 - 👯 I’m looking to collaborate on [GitHub](https://github.com/users/1saptarshi/projects/2/views/1)
-    <p><img align="right" src="https://media2.giphy.com/media/BitlZaszvdNC5rlUpw/200w.webp" alt="1saptarshi" /></p>
+    
 - 🤝 I’m looking for help with [blockchain-based social media application (Echo)](https://github.com/users/1saptarshi/projects/2/views/1)
 
 - 👨‍💻 All of my projects are available at [https://github.com/1saptarshi](https://github.com/1saptarshi)
