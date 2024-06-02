@@ -164,11 +164,9 @@
     <a href="https://vaunt.dev">
         <img src="https://api.vaunt.dev/v1/github/entities/1saptarshi/contributions?format=svg" width="350" align="left" title="Includes public contributions"/>
     </a>
-    
-</div>
+    </div>
+ </p>
  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=1saptarshi&" alt="1saptarshi" /></p>
-</p>
-
  
  
  
