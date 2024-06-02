@@ -163,6 +163,13 @@
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/1saptarshi/contributions?format=svg&private=false)  
 
+
+<p>
+    <a href="https://vaunt.dev">
+        <img src="https://api.vaunt.dev/v1/github/entities/1saptarshi/contributions?format=svg" width="100" title="Includes public contributions"/>
+    </a>
+</p>
+
  
  
 
