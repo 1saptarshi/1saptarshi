@@ -28,16 +28,16 @@
 <p align="center">
  <a href="https://x.com/saptarshi177" target="_blank"><img style="margin: 10px"
             src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000" alt="x"
-            height="50"/></a>
+            height="30"/></a>
     <a href="https://www.instagram.com/1saptarshi_chowdhury_/" target="_blank"><img style="margin: 10px"
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/198px-Instagram_logo_2016.svg.png?20210403190622" alt="linkedin"
-            height="50" /></a>
+            height="30" /></a>
     <a href="https://www.linkedin.com/in/saptarshi-chowdhury-ba1972234/" target="_blank"><img style="margin: 10px"
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="linkedin"
-            height="50" /></a>
+            height="30" /></a>
     <a href="https://buymeacoffee.com/1saptarshi" target="_blank"><img style="margin: 10px"
             src="https://miro.medium.com/v2/da:true/resize:fit:480/0*X9tbxUUloPowCJnn.gif" alt="x"
-            height="50"/></a>
+            height="30"/></a>
 </p>
 
  
