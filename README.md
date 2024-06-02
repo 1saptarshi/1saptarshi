@@ -160,13 +160,9 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=1saptarshi&show_icons=true&locale=en" alt="1saptarshi" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1saptarshi&" alt="1saptarshi" /></p>
 </div>
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/1saptarshi/contributions?format=svg&private=false)  
-
-
 <p>
     <a href="https://vaunt.dev">
-        <img src="https://api.vaunt.dev/v1/github/entities/1saptarshi/contributions?format=svg" width="100" title="Includes public contributions"/>
+        <img src="https://api.vaunt.dev/v1/github/entities/1saptarshi/contributions?format=svg" width="200" title="Includes public contributions"/>
     </a>
 </p>
 
