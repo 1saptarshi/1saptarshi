@@ -167,6 +167,7 @@
      
  </p>
  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=1saptarshi&" alt="1saptarshi" /></p>
+ <p><img align="right" src="https://media2.giphy.com/media/BitlZaszvdNC5rlUpw/200w.webp" alt="1saptarshi" /></p>
  
  
  
