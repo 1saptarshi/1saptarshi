@@ -159,11 +159,12 @@
     
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=1saptarshi&show_icons=true&locale=en" alt="1saptarshi" /></p>
 </div>
-<div>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=1saptarshi&" alt="1saptarshi" /></p>
+
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/1saptarshi/contributions?format=svg&private=false)  
-![image](https://github.com/1saptarshi/1saptarshi/assets/142312774/3722f317-48cb-4e6e-a951-bbb239129c8a)
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=1saptarshi&" alt="1saptarshi" /></p>
+ 
 
     
- </div>
+ 
 
