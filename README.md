@@ -162,7 +162,7 @@
 </div>
 <p>
     <a href="https://vaunt.dev">
-        <img src="https://api.vaunt.dev/v1/github/entities/1saptarshi/contributions?format=svg" width="200" title="Includes public contributions"/>
+        <img src="https://api.vaunt.dev/v1/github/entities/1saptarshi/contributions?format=svg" width="300" title="Includes public contributions"/>
     </a>
 </p>
 
