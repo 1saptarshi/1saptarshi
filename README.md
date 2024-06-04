@@ -114,7 +114,7 @@
     <a href="https://www.java.com/" target="_blank"><img style="margin: 10px"
             src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
     <a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Oracle_Logo.svg/120px-Oracle_Logo.svg.png" alt="Oracle" height="50" /></a>
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px"
             src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator"
             height="50" /></a>
