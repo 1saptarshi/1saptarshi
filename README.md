@@ -29,7 +29,7 @@
      <a href="https://codeforces.com/profile/saptarshichowdhury" target="_blank"><img style="margin: 10px"
             src="https://store-images.s-microsoft.com/image/apps.48094.14504742535903781.aedbca21-113a-48f4-b001-4204e73b22fc.503f883f-8339-4dc5-8609-81713a59281f?h=464" alt="codeforce"
             height="30"/></a>
-     <a href="https://medium.com/@1saptarshichowdhury/navigating-the-agile-seas-a-guide-to-agile-software-development-methodologies-2cb59d569993" target="_blank"><img style="margin: 10px"
+     <a href="https://medium.com/@1saptarshichowdhury"_blank"><img style="margin: 10px"
             src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" alt="medium"
             height="30"/></a>
     <a href="https://stackoverflow.com/users/25403524/saptarshi-chowdhury" target="_blank"><img style="margin: 10px"
