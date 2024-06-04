@@ -26,7 +26,15 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-    <a href="https://codeforces.com/profile/profile/saptarshichowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="profile/saptarshichowdhury" height="30" width="40" /></a>
+ <a href="https://x.com/saptarshi177" target="_blank"><img style="margin: 10px"
+            src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000" alt="x"
+            height="30"/></a>
+
+             <a href="https://x.com/saptarshi177" target="_blank"><img style="margin: 10px"
+            src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000" alt="x"
+            height="30"/></a>
+     
+    
  <a href="https://x.com/saptarshi177" target="_blank"><img style="margin: 10px"
             src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000" alt="x"
             height="30"/></a>
