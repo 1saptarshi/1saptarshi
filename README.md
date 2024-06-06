@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **MERN Stack chat web app**
 
-- 🌱 I’m currently learning **SpringBoot / NEXTjs / TypeScript / Redux / Solidity**
+- 🌱 I’m currently learning **SpringBoot / NEXTjs / TypeScript / Redux / Jquery**
 
 - 👯 I’m looking to collaborate on [GitHub](https://github.com/users/1saptarshi/projects/2/views/1)
     
