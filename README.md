@@ -8,9 +8,9 @@
 
 <p align="center"> <a href="https://twitter.com/@saptarshi177" target="blank"> <img src="https://img.shields.io/twitter/follow/@saptarshi177?logo=twitter&style=for-the-badge" alt="@saptarshi177" /></a> </p>
 
-- 🔭 I’m currently working on **MERN Stack chat web app**
+- 🔭 I’m currently working on **Project manage System**
 
-- 🌱 I’m currently learning **SpringBoot / NEXTjs / TypeScript / Redux / Jquery**
+- 🌱 I’m currently learning **SpringBoot / JavaScript / Redux / React / Mongodb**
 
 - 👯 I’m looking to collaborate on [GitHub](https://github.com/users/1saptarshi/projects/2/views/1)
     
