@@ -21,7 +21,7 @@
       </a>
     </p>
     <p>👨‍💻 All of my projects are available at 
-      <a href="https://github.com/1saptarshi">
+      <a href="https://github.com/1saptarshi?tab=repositories">
         <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width: 30px; height: 30px;">
       </a>
     </p>
