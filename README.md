@@ -7,27 +7,27 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1saptarshi" alt="1saptarshi" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/@saptarshi177" target="blank"> <img src="https://img.shields.io/twitter/follow/@saptarshi177?logo=twitter&style=for-the-badge" alt="@saptarshi177" /></a> </p>
-<div class="center">
+<div align="center">
     <h3>🔭 I’m currently working on <strong>Project manage System</strong></h3>
     <p>🌱 I’m currently learning <strong>SpringBoot / JavaScript / Redux / React / Mongodb</strong></p>
     <p>👯 I’m looking to collaborate on 
       <a href="https://github.com/users/1saptarshi/projects/2/views/1">
-        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width: 20px; height: 20px;">
+        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width: 30px; height: 30px;">
       </a>
     </p>
     <p>🤝 I’m looking for help with 
       <a href="https://github.com/users/1saptarshi/projects/2/views/1">
-        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width: 20px; height: 20px;">
+        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width: 30px; height: 30px;">
       </a>
     </p>
     <p>👨‍💻 All of my projects are available at 
       <a href="https://github.com/1saptarshi">
-        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width: 20px; height: 20px;">
+        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width: 30px; height: 30px;">
       </a>
     </p>
     <p>📝 I regularly write articles on 
       <a href="https://medium.com/@1saptarshichowdhury">
-        <img src="https://cdn.iconscout.com/icon/free/png-256/medium-47-433328.png" alt="Medium" style="width: 20px; height: 20px;">
+        <img src="https://cdn.iconscout.com/icon/free/png-256/medium-47-433328.png" alt="Medium" style="width: 30px; height: 30px;">
       </a>
     </p>
     <p>💬 Ask me about <strong>WEB AND APP DEV</strong></p>
