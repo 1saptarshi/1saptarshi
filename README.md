@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/1saptarshi](https://github.com/1saptarshi)
 
-- 📝 I regularly write articles on [https://github.com/1saptarshi/my_blog](https://github.com/1saptarshi/my_blog)
+- 📝 I regularly write articles on https://medium.com/@1saptarshichowdhury
 
 - 💬 Ask me about **WEB AND APP DEV**
 
