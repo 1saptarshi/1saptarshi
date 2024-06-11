@@ -7,7 +7,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1saptarshi" alt="1saptarshi" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/@saptarshi177" target="blank"> <img src="https://img.shields.io/twitter/follow/@saptarshi177?logo=twitter&style=for-the-badge" alt="@saptarshi177" /></a> </p>
-<div align="center">
+<div align="left">
     <h3>🔭 I’m currently working on <strong>Project manage System</strong></h3>
     <p>🌱 I’m currently learning <strong>SpringBoot / JavaScript / Redux / React / Mongodb</strong></p>
     <p>👯 I’m looking to collaborate on 
