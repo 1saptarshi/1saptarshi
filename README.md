@@ -27,7 +27,7 @@
     </p>
     <p>📝 I regularly write articles on 
       <a href="https://medium.com/@1saptarshichowdhury">
-        <img src="https://cdn.iconscout.com/icon/free/png-256/medium-47-433328.png" alt="Medium" style="width: 30px; height: 30px;">
+        <img src="https://cdn.icon-icons.com/icons2/2997/PNG/512/medium_logo_icon_187624.png" alt="Medium" style="width: 30px; height: 30px;">
       </a>
     </p>
     <p>💬 Ask me about <strong>WEB AND APP DEV</strong></p>
