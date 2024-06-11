@@ -4,9 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=1saptarshi&label=Profile%20views&color=0e75b6&style=flat" alt="1saptarshi" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1saptarshi" alt="1saptarshi" /></a> </p>
-
-<p align="center"> <a href="https://twitter.com/@saptarshi177" target="blank"> <img src="https://img.shields.io/twitter/follow/@saptarshi177?logo=twitter&style=for-the-badge" alt="@saptarshi177" /></a> </p>
+ 
 <div align="left">
     <h3>🔭 I’m currently working on <strong>Project manage System</strong></h3>
     <p>🌱 I’m currently learning <strong>SpringBoot / JavaScript / Redux / React / Mongodb</strong></p>
