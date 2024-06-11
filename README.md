@@ -12,23 +12,19 @@
     <p>🌱 I’m currently learning <strong>SpringBoot / JavaScript / Redux / React / Mongodb</strong></p>
     <p>👯 I’m looking to collaborate on 
       <a href="https://github.com/users/1saptarshi/projects/2/views/1">
-        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width: 30px; height: 30px;">
-      </a>
+        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width: 30px; height: 30px;"></a>
     </p>
     <p>🤝 I’m looking for help with 
       <a href="https://github.com/users/1saptarshi/projects/2/views/1">
-        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width: 30px; height: 30px;">
-      </a>
+        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width: 30px; height: 30px;"></a>
     </p>
     <p>👨‍💻 All of my projects are available at 
       <a href="https://github.com/1saptarshi?tab=repositories">
-        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width: 30px; height: 30px;">
-      </a>
+        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width: 30px; height: 30px;"></a>
     </p>
     <p>📝 I regularly write articles on 
       <a href="https://medium.com/@1saptarshichowdhury">
-        <img src="https://cdn.icon-icons.com/icons2/2992/PNG/512/medium_logo_icon_187322.png" alt="Medium" style="width: 30px; height: 30px;">
-      </a>
+        <img src="https://cdn.icon-icons.com/icons2/2992/PNG/512/medium_logo_icon_187322.png" alt="Medium" style="width: 30px; height: 30px;"></a>
     </p>
     <p>💬 Ask me about <strong>WEB AND APP DEV</strong></p>
     <p>📫 How to reach me <strong>saptarshichowdhury860@gmail.com</strong></p>
