@@ -6,29 +6,7 @@
 
 
 
-<div style="display: flex; justify-content: space-around; padding: 20px;">
-    <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 16px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-        <img src="https://via.placeholder.com/300" alt="Product Image" style="width: 100%; border-radius: 8px;">
-        <h3 style="margin-top: 16px; font-size: 1.2em;">Product Name 1</h3>
-        <p style="color: #555;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-        <div style="color: #b12704; font-size: 1.2em; margin: 16px 0;">$19.99</div>
-        <button style="background-color: #ff9900; color: white; border: none; padding: 10px 16px; border-radius: 4px; cursor: pointer;">Add to Cart</button>
-    </div>
-    <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 16px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-        <img src="https://via.placeholder.com/300" alt="Product Image" style="width: 100%; border-radius: 8px;">
-        <h3 style="margin-top: 16px; font-size: 1.2em;">Product Name 2</h3>
-        <p style="color: #555;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-        <div style="color: #b12704; font-size: 1.2em; margin: 16px 0;">$29.99</div>
-        <button style="background-color: #ff9900; color: white; border: none; padding: 10px 16px; border-radius: 4px; cursor: pointer;">Add to Cart</button>
-    </div>
-    <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 16px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-        <img src="https://via.placeholder.com/300" alt="Product Image" style="width: 100%; border-radius: 8px;">
-        <h3 style="margin-top: 16px; font-size: 1.2em;">Product Name 3</h3>
-        <p style="color: #555;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-        <div style="color: #b12704; font-size: 1.2em; margin: 16px 0;">$39.99</div>
-        <button style="background-color: #ff9900; color: white; border: none; padding: 10px 16px; border-radius: 4px; cursor: pointer;">Add to Cart</button>
-    </div>
-</div>
+ 
 
 
 
