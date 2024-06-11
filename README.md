@@ -14,7 +14,7 @@
 
 
  
-<div align="left">
+<div align="center">
     <h3>🔭 I’m currently working on <strong>Project manage System</strong></h3>
     <p>🌱 I’m currently learning <strong>SpringBoot / JavaScript / Redux / React / Mongodb</strong></p>
     <p>👯 I’m looking to collaborate on 
