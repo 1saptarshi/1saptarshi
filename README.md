@@ -177,6 +177,11 @@
             alt="socket.io" height="50" /></a>
     <a href="https://ethereum.org/en/" target="_blank"><img style="margin: 10px"
             src="https://www.pngall.com/wp-content/uploads/10/Ethereum-Logo-PNG-HD-Image.png" alt="ethereum" height="50" /></a>
+    <a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px"
+    src="https://avatars.githubusercontent.com/u/10342521?s=280&v=4" alt="ethereum" height="50" /></a>
+    <a href="https://d3js.org/" target="_blank"><img style="margin: 10px"
+        src="https://raw.githubusercontent.com/d3/d3-logo/master/d3.png" alt="ethereum" height="50" /></a>
+
 </div>
 
 <div align="center"> 
