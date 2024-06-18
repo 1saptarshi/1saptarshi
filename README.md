@@ -1,4 +1,5 @@
-![saptarshichowdhury860@gmail com](https://github.com/1saptarshi/1saptarshi/assets/142312774/5cf89192-8727-4892-9004-76b149439b6a)
+![saptarshichowdhury860@gmail com (1)](https://github.com/1saptarshi/1saptarshi/assets/142312774/859fb3e0-9c54-4fc2-a73d-9e978caece8e)
+
 
 <h1 align="center">Hi 👋, I'm Saptarshi Chowdhury</h1>
 <h3 align="center">full stack web and app developer</h3>
