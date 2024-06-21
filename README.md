@@ -70,7 +70,7 @@
             src="https://seeklogo.com/images/P/pinterest-logo-35F0AD2195-seeklogo.com.png" alt="pintarest"
             height="30"/></a>
   <a href="     " target="_blank"><img style="margin: 10px"
-            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_4N37TIgWC_QLpspNwGddZH8DhzljeYMFnA&s" alt="youtube"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/YouTube_social_white_circle_%282017%29.svg/768px-YouTube_social_white_circle_%282017%29.svg.png" alt="youtube"
             height="30"/></a>
 </p>
 
