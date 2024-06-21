@@ -69,6 +69,9 @@
      <a href="https://in.pinterest.com/1saptarshi_chowdhury_" target="_blank"><img style="margin: 10px"
             src="https://seeklogo.com/images/P/pinterest-logo-35F0AD2195-seeklogo.com.png" alt="pintarest"
             height="30"/></a>
+  <a href="     " target="_blank"><img style="margin: 10px"
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_4N37TIgWC_QLpspNwGddZH8DhzljeYMFnA&s" alt="youtube"
+            height="30"/></a>
 </p>
 
  
