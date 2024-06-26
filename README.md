@@ -15,7 +15,7 @@
   </p>
   <img align="right"
     src="https://cdn-icons-png.flaticon.com/512/2936/2936719.png"
-    alt="1saptarshi" style="max-width:50; height:50;" />
+    alt="1saptarshi" style=max-width:200; height:200;"  />
 </div>
 
 <div align="center">
