@@ -44,7 +44,7 @@
 
 <div align="center">
   <img align="left"B
-    src="https://cdn-icons-png.flaticon.com/128/670/670016.png "   
+    src="https://cdn-icons-png.flaticon.com/128/670/670016.png"   
     alt="1saptarshi streak stats" style="max-width:200; height:200;" />
   <p align="right">
     Outside of my professional life, I'm passionate about listening to music, driving, swimming, reading story books,
