@@ -172,23 +172,31 @@
 
 </div>
 
-<div align="   "> 
-<h3 align="left">Support:</h3>
-<a  href="https://www.buymeacoffee.com/1Saptarshi"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=1Saptarshi&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
-
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1saptarshi&show_icons=true&locale=en&layout=compact" alt="1saptarshi" /></p>
-    
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=1saptarshi&show_icons=true&locale=en" alt="1saptarshi" /></p>
- 
-
-<p>
+ <div align=""> 
+  <h3 align="">Support:</h3>
+  <a href="https://www.buymeacoffee.com/1Saptarshi">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=1Saptarshi&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />
+  </a>
+  
+  <p>
+    <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=1saptarshi&show_icons=true&locale=en&layout=compact" alt="1saptarshi" />
+  </p>
+      
+  <p>
+    <img align="" src="https://github-readme-stats.vercel.app/api?username=1saptarshi&show_icons=true&locale=en" alt="1saptarshi" />
+  </p>
+   
+  <p>
     <a href="https://vaunt.dev">
-        <img src="https://api.vaunt.dev/v1/github/entities/1saptarshi/contributions?format=svg" width="350" align="left" title="Includes public contributions"/>
+      <img src="https://api.vaunt.dev/v1/github/entities/1saptarshi/contributions?format=svg" width="350" align="" title="Includes public contributions"/>
     </a>
-     
- </p>
- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=1saptarshi&" alt="1saptarshi" /></p>
+  </p>
+   
+  <p>
+    <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=1saptarshi&" alt="1saptarshi" />
+  </p>
+</div>
+
   
  
  
