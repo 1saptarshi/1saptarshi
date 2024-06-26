@@ -39,7 +39,7 @@
     to illustrate key concepts.
   </p>
   <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRADnjKXyYKHTR4PNhRXXZMChLbzoGLXBRapw&s" width="200"
-    alt="1saptarshi contributions" style="max-width: 100%; height: auto;" />
+    alt="1saptarshi contributions" style="max-width: 200; height: 150;" />
 </div>
 
 <div align="center">
