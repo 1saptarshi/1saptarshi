@@ -253,30 +253,30 @@
 
 </div>
 
- <div align=""> 
-  <h3 align="">Support:</h3>
+ <div align="center">
+  <h3>Support:</h3>
   <a href="https://www.buymeacoffee.com/1Saptarshi">
     <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=1Saptarshi&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />
   </a>
-  
-  <p>
-    <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=1saptarshi&show_icons=true&locale=en&layout=compact" alt="1saptarshi" />
-  </p>
-      
-  <p>
-    <img align="" src="https://github-readme-stats.vercel.app/api?username=1saptarshi&show_icons=true&locale=en" alt="1saptarshi" />
-  </p>
-   
-  <p>
-    <a href="https://vaunt.dev">
-      <img src="https://api.vaunt.dev/v1/github/entities/1saptarshi/contributions?format=svg" width="350" align="" title="Includes public contributions"/>
-    </a>
-  </p>
-   
-  <p>
-    <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=1saptarshi&" alt="1saptarshi" />
-  </p>
 </div>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1saptarshi&show_icons=true&locale=en&layout=compact" alt="1saptarshi" style="max-width: 100%; height: auto;" />
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=1saptarshi&show_icons=true&locale=en" alt="1saptarshi" style="max-width: 100%; height: auto;" />
+  </div>
+  <div>
+    <a href="https://vaunt.dev">
+      <img src="https://api.vaunt.dev/v1/github/entities/1saptarshi/contributions?format=svg" width="350" title="Includes public contributions" style="max-width: 100%; height: auto;" />
+    </a>
+  </div>
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=1saptarshi" alt="1saptarshi" style="max-width: 100%; height: auto;" />
+  </div>
+</div>
+
 
   
  
