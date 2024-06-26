@@ -38,7 +38,7 @@
     is characterized by a hands-on, problem-solving approach, often incorporating real-world examples and case studies
     to illustrate key concepts.
   </p>
-  <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRADnjKXyYKHTR4PNhRXXZMChLbzoGLXBRapw&s" width="200"
+  <img align="right" src="https://cdn-icons-png.flaticon.com/512/4207/4207285.png" width="200"
     alt="1saptarshi contributions" style="max-width: 200; height: 150;" />
 </div>
 
