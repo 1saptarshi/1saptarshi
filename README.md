@@ -6,7 +6,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=1saptarshi&label=Profile%20views&color=0e75b6&style=flat" alt="1saptarshi" /> </p>
 
-<div align="center">
+ <div align="center">
   <p align="left">
     Hello! I'm Saptarshi Chowdhury, a dedicated Software Developer based in India. I specialize in full-stack web and
     App development, leveraging my expertise in both front-end and back-end technologies to build robust and
@@ -15,12 +15,12 @@
   </p>
   <img align="right"
     src="https://cdn-icons-png.flaticon.com/512/3778/3778120.png"
-    alt="1saptarshi" style="max-width: 200; height:200;" />
+    alt="1saptarshi" style="max-width:200; height:150;" />
 </div>
 
 <div align="center">
   <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPSBkDotK73N8CYz0PIDW4cXlVb3lMh2hX5A&s"
-    alt="1saptarshi" style="max-width: 100%; height: auto;" />
+    alt="1saptarshi" style="max-width:200; height:150;" />
   <p align="right">
     I have over 2 years of experience in the software development industry. I hold a BCA in Software development from
     Techno Main Salt Lake, where I developed a strong foundation in programming and software engineering principles. My
@@ -44,7 +44,7 @@
 
 <div align="center">
   <img align="left"B
-    src=" https://cdn-icons-png.flaticon.com/512/5776/5776824.png"   
+    src="https://cdn-icons-png.flaticon.com/128/670/670016.png "   
     alt="1saptarshi streak stats" style="max-width:200; height:200;" />
   <p align="right">
     Outside of my professional life, I'm passionate about listening to music, driving, swimming, reading story books,
@@ -62,7 +62,6 @@
     articles and share your thoughts. Let's explore the world of software development together!
   </p>
 </div>
-
  
 
 
