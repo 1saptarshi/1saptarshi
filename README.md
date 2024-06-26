@@ -172,8 +172,8 @@
 
 </div>
 
-<div align="center"> 
-<h3 align="center">Support:</h3>
+<div align="   "> 
+<h3 align="left">Support:</h3>
 <a  href="https://www.buymeacoffee.com/1Saptarshi"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=1Saptarshi&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 </div> 
  <div >
@@ -188,7 +188,7 @@
     </a>
      
  </p>
- <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=1saptarshi&" alt="1saptarshi" /></p>
+ <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=1saptarshi&" alt="1saptarshi" /></p>
   
  
  
