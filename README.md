@@ -20,7 +20,7 @@
 
 <div align="center">
   <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPSBkDotK73N8CYz0PIDW4cXlVb3lMh2hX5A&s"
-    alt="1saptarshi" style="max-width:200; height:150;" />
+    alt="1saptarshi" style="max-width:50; height:50;" />
   <p align="right">
     I have over 2 years of experience in the software development industry. I hold a BCA in Software development from
     Techno Main Salt Lake, where I developed a strong foundation in programming and software engineering principles. My
