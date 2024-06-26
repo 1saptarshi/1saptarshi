@@ -6,7 +6,62 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=1saptarshi&label=Profile%20views&color=0e75b6&style=flat" alt="1saptarshi" /> </p>
 
+<div align="center">
+  <p align="left">
+    Hello! I'm Saptarshi Chowdhury, a dedicated Software Developer based in India. I specialize in full-stack web and
+    App development, leveraging my expertise in both front-end and back-end technologies to build robust and
+    user-friendly applications. My key interest lies in creating innovative, scalable solutions that address real-world
+    challenges and enhance user experiences.
+  </p>
+  <img align="right"
+    src="https://cdn-icons-png.flaticon.com/512/3778/3778120.png"
+    alt="1saptarshi" style="max-width: 200; height:200;" />
+</div>
 
+<div align="center">
+  <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPSBkDotK73N8CYz0PIDW4cXlVb3lMh2hX5A&s"
+    alt="1saptarshi" style="max-width: 100%; height: auto;" />
+  <p align="right">
+    I have over 2 years of experience in the software development industry. I hold a BCA in Software development from
+    Techno Main Salt Lake, where I developed a strong foundation in programming and software engineering principles. My
+    initial motivation to enter this field stemmed from a deep fascination with how technology can solve complex
+    problems and improve everyday life.
+  </p>
+</div>
+
+<div align="center">
+  <p align="left">
+    On Medium, I share my insights on a variety of topics related to software development, including best practices in
+    coding, emerging technologies, and practical tips for developers. My goal is to provide valuable perspectives and
+    practical advice that can help fellow developers enhance their skills and stay updated with industry trends. I
+    frequently explore subjects such as full-stack development, cloud computing, and software architecture. My writing
+    is characterized by a hands-on, problem-solving approach, often incorporating real-world examples and case studies
+    to illustrate key concepts.
+  </p>
+  <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRADnjKXyYKHTR4PNhRXXZMChLbzoGLXBRapw&s" width="200"
+    alt="1saptarshi contributions" style="max-width: 100%; height: auto;" />
+</div>
+
+<div align="center">
+  <img align="left"B
+    src="https://cdn-icons-png.flaticon.com/128/670/670016.png "   
+    alt="1saptarshi streak stats" style="max-width:200; height:200;" />
+  <p align="right">
+    Outside of my professional life, I'm passionate about listening to music, driving, swimming, reading story books,
+    and cooking. I enjoy my cooking and story reading, which provide a perfect balance to my work life. These interests
+    not only bring me joy and relaxation but also inspire my creativity and problem-solving skills in software
+    development. "I love small and long tours, which help me clear my mind and approach coding challenges with a fresh
+    perspective” and keep me motivated and driven, fueling my passion for continuous learning and improvement.
+  </p>
+</div>
+
+<div align="center">
+  <p align="left">
+    I love engaging with readers and fellow developers. Feel free to connect with me on LinkedIn, Twitter, GitHub,
+    YouTube, or reach out via email. Your feedback and insights are invaluable, so don't hesitate to comment on my
+    articles and share your thoughts. Let's explore the world of software development together!
+  </p>
+</div>
 
  
 
