@@ -62,37 +62,64 @@
     articles and share your thoughts. Let's explore the world of software development together!
   </p>
 </div>
- 
 
-
-
-
-
-
- 
 <div align="center">
-    <h3>🔭 I’m currently working on <strong>Project manage System</strong></h3>
-    <p>🌱 I’m currently learning <strong>SpringBoot / JavaScript / Redux / React / Mongodb</strong></p>
-    <p>👯 I’m looking to collaborate on 
-      <a href="https://github.com/users/1saptarshi/projects/2/views/1">
-        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width: 30px; height: 30px;"></a>
-    </p>
-    <p>🤝 I’m looking for help with 
-      <a href="https://github.com/users/1saptarshi/projects/2/views/1">
-        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width: 30px; height: 30px;"></a>
-    </p>
-    <p>👨‍💻 All of my projects are available at 
-      <a href="https://github.com/1saptarshi?tab=repositories">
-        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width: 30px; height: 30px;"></a>
-    </p>
-    <p>📝 I regularly write articles on 
-      <a href="https://medium.com/@1saptarshichowdhury">
-        <img src="https://cdn.icon-icons.com/icons2/2992/PNG/512/medium_logo_icon_187322.png" alt="Medium" style="width: 30px; height: 30px;"></a>
-    </p>
-    <p>💬 Ask me about <strong>WEB AND APP DEV</strong></p>
-    <p>📫 How to reach me <strong>saptarshichowdhury860@gmail.com</strong></p>
-  </div>
-  
+  <table>
+    <tr>
+      <td align="center">
+        <h3>🔭 I’m currently working on</h3>
+        <strong>Project Management System</strong>
+      </td>
+      <td align="center">
+        <h3>🌱 I’m currently learning</h3>
+        <strong>SpringBoot / JavaScript / Redux / React / MongoDB</strong>
+      </td>
+      <td align="center">
+        <h3>👯 I’m looking to collaborate on</h3>
+        <a href="https://github.com/users/1saptarshi/projects/2/views/1">
+          <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width: 30px; height: 30px;">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <h3>🤝 I’m looking for help with</h3>
+        <a href="https://github.com/users/1saptarshi/projects/2/views/1">
+          <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width: 30px; height: 30px;">
+        </a>
+      </td>
+      <td align="center">
+        <h3>👨‍💻 All of my projects are available at</h3>
+        <a href="https://github.com/1saptarshi?tab=repositories">
+          <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width: 30px; height: 30px;">
+        </a>
+      </td>
+      <td align="center">
+        <h3>📝 I regularly write articles on</h3>
+        <a href="https://medium.com/@1saptarshichowdhury">
+          <img src="https://cdn.icon-icons.com/icons2/2992/PNG/512/medium_logo_icon_187322.png" alt="Medium" style="width: 30px; height: 30px;">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <h3>💬 Ask me about</h3>
+        <strong>WEB AND APP DEV</strong>
+      </td>
+      <td align="center">
+        <h3>📫 How to reach me</h3>
+        <strong>saptarshichowdhury860@gmail.com</strong>
+      </td>
+      <td align="center">
+        &nbsp;
+      </td>
+    </tr>
+  </table>
+</div>
+
+ 
+
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
