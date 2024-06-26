@@ -14,7 +14,7 @@
     challenges and enhance user experiences.
   </p>
   <img align="right"
-    src="https://cdn-icons-png.flaticon.com/128/1940/1940611.png"
+    src="https://cdn-icons-png.flaticon.com/128/201/201614.png"
     alt="1saptarshi" style=max-width:200; height:200;"  />
 </div>
 
