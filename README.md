@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-  <img align="left" src="https://cdn-icons-png.flaticon.com/512/432/432544.png"
+  <img align="left" src="https://cdn-icons-png.flaticon.com/512/3750/3750083.png"
     alt="1saptarshi" style="max-width:50; height:50;" />
   <p align="right">
     I have over 2 years of experience in the software development industry. I hold a BCA in Software development from
