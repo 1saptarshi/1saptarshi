@@ -19,8 +19,7 @@
 </div>
 
 <div align="center">
-  <img align="left" src="![image](https://github.com/1saptarshi/1saptarshi/assets/142312774/74908c46-c1d0-472a-a7af-658233da789f)
-"
+  <img align="left" src="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"
     alt="1saptarshi" style="max-width:50; height:50;" />
   <p align="right">
     I have over 2 years of experience in the software development industry. I hold a BCA in Software development from
