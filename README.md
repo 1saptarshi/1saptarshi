@@ -259,6 +259,26 @@
     <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=1Saptarshi&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />
   </a>
 </div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1saptarshi&show_icons=true&locale=en&layout=compact" alt="1saptarshi" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=1saptarshi&show_icons=true&locale=en" alt="1saptarshi" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://vaunt.dev">
+        <img src="https://api.vaunt.dev/v1/github/entities/1saptarshi/contributions?format=svg" width="350" title="Includes public contributions" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=1saptarshi&" alt="1saptarshi" />
+    </td>
+  </tr>
+</table>
 
  
 
