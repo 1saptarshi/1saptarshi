@@ -260,22 +260,7 @@
   </a>
 </div>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1saptarshi&show_icons=true&locale=en&layout=compact" alt="1saptarshi" style="max-width: 100%; height: auto;" />
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=1saptarshi&show_icons=true&locale=en" alt="1saptarshi" style="max-width: 100%; height: auto;" />
-  </div>
-  <div>
-    <a href="https://vaunt.dev">
-      <img src="https://api.vaunt.dev/v1/github/entities/1saptarshi/contributions?format=svg" width="350" title="Includes public contributions" style="max-width: 100%; height: auto;" />
-    </a>
-  </div>
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=1saptarshi" alt="1saptarshi" style="max-width: 100%; height: auto;" />
-  </div>
-</div>
+ 
 
 
   
