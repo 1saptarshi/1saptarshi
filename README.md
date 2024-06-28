@@ -30,40 +30,6 @@
 </div>
 
 <div align="center">
-  <p align="left">
-    On Medium, I share my insights on a variety of topics related to software development, including best practices in
-    coding, emerging technologies, and practical tips for developers. My goal is to provide valuable perspectives and
-    practical advice that can help fellow developers enhance their skills and stay updated with industry trends. I
-    frequently explore subjects such as full-stack development, cloud computing, and software architecture. My writing
-    is characterized by a hands-on, problem-solving approach, often incorporating real-world examples and case studies
-    to illustrate key concepts.
-  </p>
-  <img align="right" src="https://cdn-icons-png.flaticon.com/512/4207/4207285.png" width="200"
-    alt="1saptarshi contributions" style="max-width: 200; height: 150;" />
-</div>
-
-<div align="center">
-  <img align="left"B
-    src="https://cdn-icons-png.flaticon.com/128/670/670016.png"   
-    alt="1saptarshi streak stats" style="max-width:200; height:200;" />
-  <p align="right">
-    Outside of my professional life, I'm passionate about listening to music, driving, swimming, reading story books,
-    and cooking. I enjoy my cooking and story reading, which provide a perfect balance to my work life. These interests
-    not only bring me joy and relaxation but also inspire my creativity and problem-solving skills in software
-    development. "I love small and long tours, which help me clear my mind and approach coding challenges with a fresh
-    perspective” and keep me motivated and driven, fueling my passion for continuous learning and improvement.
-  </p>
-</div>
-
-<div align="center">
-  <p align="left">
-    I love engaging with readers and fellow developers. Feel free to connect with me on LinkedIn, Twitter, GitHub,
-    YouTube, or reach out via email. Your feedback and insights are invaluable, so don't hesitate to comment on my
-    articles and share your thoughts. Let's explore the world of software development together!
-  </p>
-</div>
-
-<div align="center">
   <table>
     <tr>
       <td align="center">
