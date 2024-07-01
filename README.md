@@ -101,9 +101,9 @@
     <a href="https://www.facebook.com/1saptarshi/" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/5692/5692284.png" alt="Facebookpage" height="30"/></a>
     <a href="https://www.youtube.com/channel/your-channel-id" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/YouTube_social_white_circle_%282017%29.svg/768px-YouTube_social_white_circle_%282017%29.svg.png" alt="youtube" height="30"/></a>
 </p>
-<image>
+<a>
   <source src="https://cdn.pixabay.com/photo/2024/05/15/20/57/developer-8764527_1280.jpg">
-  </image>
+  </a>
       
     
  
