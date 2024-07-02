@@ -101,7 +101,7 @@
     <a href="https://www.facebook.com/1saptarshi/" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/5692/5692284.png" alt="Facebookpage" height="30"/></a>
      
 </p>
-<a>
+<a align="center">
   <source src="https://cdn.pixabay.com/photo/2024/05/15/20/57/developer-8764527_1280.jpg">
   </a>
       
