@@ -102,16 +102,9 @@
      
 </p>
 <div align="center">
-  <src="https://cdn.pixabay.com/photo/2024/05/15/20/57/developer-8764527_1280.jpg">
+  <img src="https://cdn.pixabay.com/photo/2024/05/15/20/57/developer-8764527_1280.jpg">
   </div>
-      <div class="container">
-        <div class="card">
-            <img src="https://via.placeholder.com/300x150" alt="Product Image">
-            <h3>Product Name</h3>
-            <p>Short product description goes here. It provides a brief detail about the product.</p>
-            <button>Add to Cart</button>
-        </div>
-    </div>
+       
     
  <a href=" " target=" "><img style="margin: 10px" align: center src="https://cdn.pixabay.com/photo/2024/05/15/20/57/developer-8764527_1280.jpg" alt="youtube" height="200"/></a>
 
