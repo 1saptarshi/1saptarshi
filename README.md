@@ -102,7 +102,7 @@
      
 </p>
 <div align="center">
-  <image src="https://cdn.pixabay.com/photo/2024/05/15/20/57/developer-8764527_1280.jpg">
+  <src="https://cdn.pixabay.com/photo/2024/05/15/20/57/developer-8764527_1280.jpg">
   </div>
       
     
