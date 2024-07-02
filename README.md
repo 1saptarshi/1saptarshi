@@ -105,9 +105,6 @@
  <a href=" " target=" "><img style="margin: 10px" align: center src="https://cdn.pixabay.com/photo/2024/05/15/20/57/developer-8764527_1280.jpg" alt="youtube" height="200"/></a>
 </div>
        
-    
- <a href=" " target=" "><img style="margin: 10px" align: center src="https://cdn.pixabay.com/photo/2024/05/15/20/57/developer-8764527_1280.jpg" alt="youtube" height="200"/></a>
-
 <h3 align="center">Languages / Tools / Technologies :</h3>
 <div align="center">
     <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px"
