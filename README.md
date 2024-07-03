@@ -93,12 +93,10 @@
     <a href="https://medium.com/@1saptarshichowdhury" target="_blank"><img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" alt="medium" height="30"/></a>
     <a href="https://dev.to/1saptarshi" target="_blank"><img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dev-community-icon.png" alt="Dev" height="30"/></a>
     <a href="https://stackoverflow.com/users/25403524/saptarshi-chowdhury" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/stack-overflow-icon-2048x2048-7ohycn5z.png" alt="stackoverflow" height="30"/></a>
-    <a href="https://x.com/saptarshi177" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000" alt="x" height="30"/></a>
-    <a href="https://www.instagram.com/1saptarshi_chowdhury_/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/198px-Instagram_logo_2016.svg.png?20210403190622" alt="instagram" height="30" /></a>
     <a href="https://www.linkedin.com/in/saptarshi-chowdhury-ba1972234/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="linkedin" height="30" /></a>
     <a href="https://buymeacoffee.com/1saptarshi" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/da:true/resize:fit:480/0*X9tbxUUloPowCJnn.gif" alt="buyneacoffee" height="30"/></a>
-    <a href="https://in.pinterest.com/1saptarshi_chowdhury_" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/P/pinterest-logo-35F0AD2195-seeklogo.com.png" alt="pintarest" height="30"/></a>
-    <a href="https://www.facebook.com/1saptarshi/" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/5692/5692284.png" alt="Facebookpage" height="30"/></a>
+    
+    
      
 </p>
 <div align="center">
