@@ -238,7 +238,7 @@
       </a>
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=1saptarshi&" alt="1saptarshi" />
+      [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=1saptarshi&theme=prussian)](https://git.io/streak-stats)
     </td>
   </tr>
 </table>
