@@ -241,7 +241,7 @@
             
    [![GitHub Streak](https://streak-stats.demolab.com/?user=1saptarshi&theme=dark)](https://git.io/streak-stats)
 
-    </td>
+ </td>
   </tr>
 </table>
  
