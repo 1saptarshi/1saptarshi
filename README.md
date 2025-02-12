@@ -238,7 +238,7 @@
       </a>
     </td>
     <td align="center">
-     (https://nirzak-streak-stats.vercel.app?user=1saptarshi&theme=prussian)](https://git.io/streak-stats)
+     [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=1saptarshi&theme=prussian&hide_border=true)](https://git.io/streak-stats)
     </td>
   </tr>
 </table>
