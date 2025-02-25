@@ -8,10 +8,7 @@
 
  <div align="center">
   <p align="left">
-    Hello! I'm Saptarshi Chowdhury, a dedicated Software Developer based in India. I specialize in full-stack web and
-    App development, leveraging my expertise in both front-end and back-end technologies to build robust and
-    user-friendly applications. My key interest lies in creating innovative, scalable solutions that address real-world
-    challenges and enhance user experiences.
+   Hello! I'm Saptarshi Chowdhury, a dedicated Software Developer based in India. I specialize in Python development and full-stack web and app development, leveraging my expertise in both front-end and back-end technologies to build robust and user-friendly applications. My key interest lies in creating innovative, scalable solutions that address real-world challenges and enhance user experiences.
   </p>
   <img align="right"
     src="https://cdn-icons-png.flaticon.com/128/201/201614.png"
@@ -22,10 +19,7 @@
   <img align="left" src="https://cdn-icons-png.flaticon.com/128/3112/3112946.png"
     alt="1saptarshi" style="max-width:50; height:50;" />
   <p align="right">
-    I have over 2 years of experience in the software development industry. I hold a BCA in Software development from
-    Techno Main Salt Lake, where I developed a strong foundation in programming and software engineering principles. My
-    initial motivation to enter this field stemmed from a deep fascination with how technology can solve complex
-    problems and improve everyday life.
+    With over 3 years of experience in the software development industry, I have developed a strong foundation in programming, problem-solving, and software engineering principles. My journey began with a deep fascination for how technology can solve complex problems and improve everyday life. Over the years, I have worked on diverse projects, gaining hands-on experience in modern frameworks, cloud computing, and API integrations.
   </p>
 </div>
 
