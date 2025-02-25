@@ -57,7 +57,7 @@
       <td align="center">
         <h3>📝 I regularly write articles on</h3>
         <a href="https://medium.com/@1saptarshichowdhury">
-          <img src="[https://cdn.icon-icons.com/icons2/2992/PNG/512/medium_logo_icon_187322.png](https://static-00.iconduck.com/assets.00/logo-medium-icon-2048x2048-asg2886j.png)" alt="Medium" style="width: 30px; height: 30px;">
+          <img src="https://static-00.iconduck.com/assets.00/logo-medium-icon-2048x2048-asg2886j.png" alt="Medium" style="width: 30px; height: 30px;">
         </a>
       </td>
     </tr>
