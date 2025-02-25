@@ -28,11 +28,11 @@
     <tr>
       <td align="center">
         <h3>🔭 I’m currently working on</h3>
-        <strong>Project Management System</strong>
+        <strong>AI-Powered Healthcare System</strong>
       </td>
       <td align="center">
         <h3>🌱 I’m currently learning</h3>
-        <strong>SpringBoot / JavaScript / Redux / React / MongoDB</strong>
+        <strong>Python / Flask / AI/ML / React / MongoDB</strong>
       </td>
       <td align="center">
         <h3>👯 I’m looking to collaborate on</h3>
