@@ -196,7 +196,7 @@
     <a href="https://postman.com" target="_blank"><img style="margin: 10px"
             src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="50" /></a>
     <a href="https://socket.io/" target="_blank"><img style="margin: 10px"
-            src=" https://static-00.iconduck.com/assets.00/socket-io-icon-2048x2046-mj0gnm4b.png"
+            src="https://static-00.iconduck.com/assets.00/socket-io-icon-2048x2046-mj0gnm4b.png"
             alt="socket.io" height="50" /></a>
     <a href="https://ethereum.org/en/" target="_blank"><img style="margin: 10px"
             src="https://www.pngall.com/wp-content/uploads/10/Ethereum-Logo-PNG-HD-Image.png" alt="ethereum" height="50" /></a>
