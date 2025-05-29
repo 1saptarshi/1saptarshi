@@ -89,101 +89,95 @@
     <a href="https://stackoverflow.com/users/25403524/saptarshi-chowdhury" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/stack-overflow-icon-2048x2048-7ohycn5z.png" alt="stackoverflow" height="30"/></a>
     <a href="https://www.linkedin.com/in/saptarshi-chowdhury-ba1972234/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="linkedin" height="30" /></a>
     <a href="https://buymeacoffee.com/1saptarshi" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/da:true/resize:fit:480/0*X9tbxUUloPowCJnn.gif" alt="buyneacoffee" height="30"/></a>
-    
 <h3 align="center">Languages / Tools / Technologies :</h3>
 
-<table align="center" cellspacing="10" cellpadding="10">
+<table align="center" cellspacing="12" cellpadding="12">
   <tr>
-    <td align="center" style="border:1px solid #ddd; border-radius:8px; padding:10px;">
-      <a href="https://reactjs.org/" target="_blank">
+    <td align="center" style="border-radius:12px; padding:12px; background: linear-gradient(135deg, #6e8efb, #a777e3); color:#fff;">
+      <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
         <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
       </a>
     </td>
-    <td align="center" style="border:1px solid #ddd; border-radius:8px; padding:10px;">
-      <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank">
+    <td align="center" style="border-radius:12px; padding:12px; background: linear-gradient(135deg, #f7971e, #ffd200); color:#fff;">
+      <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank" rel="noopener noreferrer">
         <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
       </a>
     </td>
-    <td align="center" style="border:1px solid #ddd; border-radius:8px; padding:10px;">
-      <a href="https://www.w3schools.com/css/" target="_blank">
+    <td align="center" style="border-radius:12px; padding:12px; background: linear-gradient(135deg, #43cea2, #185a9d); color:#fff;">
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">
         <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
       </a>
     </td>
-    <td align="center" style="border:1px solid #ddd; border-radius:8px; padding:10px;">
-      <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
+    <td align="center" style="border-radius:12px; padding:12px; background: linear-gradient(135deg, #ff9a9e, #fad0c4); color:#fff;">
+      <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" rel="noopener noreferrer">
         <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center" style="border:1px solid #ddd; border-radius:8px; padding:10px;">
-      <a href="https://www.w3schools.com/js/default.asp" target="_blank">
+    <td align="center" style="border-radius:12px; padding:12px; background: linear-gradient(135deg, #ff7e5f, #feb47b); color:#fff;">
+      <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noopener noreferrer">
         <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
       </a>
     </td>
-    <td align="center" style="border:1px solid #ddd; border-radius:8px; padding:10px;">
-      <a href="https://aws.amazon.com/" target="_blank">
+    <td align="center" style="border-radius:12px; padding:12px; background: linear-gradient(135deg, #00c6ff, #0072ff); color:#fff;">
+      <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
       </a>
     </td>
-    <td align="center" style="border:1px solid #ddd; border-radius:8px; padding:10px;">
-      <a href="https://www.docker.com/" target="_blank">
+    <td align="center" style="border-radius:12px; padding:12px; background: linear-gradient(135deg, #00f260, #0575e6); color:#fff;">
+      <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
       </a>
     </td>
-    <td align="center" style="border:1px solid #ddd; border-radius:8px; padding:10px;">
-      <a href="https://www.mysql.com/" target="_blank">
+    <td align="center" style="border-radius:12px; padding:12px; background: linear-gradient(135deg, #f7971e, #ffd200); color:#fff;">
+      <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center" style="border:1px solid #ddd; border-radius:8px; padding:10px;">
-      <a href="https://www.mongodb.com/" target="_blank">
+    <td align="center" style="border-radius:12px; padding:12px; background: linear-gradient(135deg, #43cea2, #185a9d); color:#fff;">
+      <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
       </a>
     </td>
-    <td align="center" style="border:1px solid #ddd; border-radius:8px; padding:10px;">
-      <a href="https://www.python.org/" target="_blank">
+    <td align="center" style="border-radius:12px; padding:12px; background: linear-gradient(135deg, #ff9a9e, #fad0c4); color:#fff;">
+      <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
         <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
       </a>
     </td>
-    <td align="center" style="border:1px solid #ddd; border-radius:8px; padding:10px;">
-      <a href="https://firebase.google.com/" target="_blank">
+    <td align="center" style="border-radius:12px; padding:12px; background: linear-gradient(135deg, #ff7e5f, #feb47b); color:#fff;">
+      <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />
       </a>
     </td>
-    <td align="center" style="border:1px solid #ddd; border-radius:8px; padding:10px;">
-      <a href="https://wordpress.com/" target="_blank">
+    <td align="center" style="border-radius:12px; padding:12px; background: linear-gradient(135deg, #00c6ff, #0072ff); color:#fff;">
+      <a href="https://wordpress.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center" style="border:1px solid #ddd; border-radius:8px; padding:10px;">
-      <a href="https://www.tailwindcss.com/" target="_blank">
+    <td align="center" style="border-radius:12px; padding:12px; background: linear-gradient(135deg, #00f260, #0575e6); color:#fff;">
+      <a href="https://www.tailwindcss.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />
       </a>
     </td>
-    <td align="center" style="border:1px solid #ddd; border-radius:8px; padding:10px;">
-      <a href="https://mui.com/" target="_blank">
+    <td align="center" style="border-radius:12px; padding:12px; background: linear-gradient(135deg, #f7971e, #ffd200); color:#fff;">
+      <a href="https://mui.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" />
       </a>
     </td>
-    <td align="center" style="border:1px solid #ddd; border-radius:8px; padding:10px;">
-      <a href="https://www.figma.com/" target="_blank">
+    <td align="center" style="border-radius:12px; padding:12px; background: linear-gradient(135deg, #43cea2, #185a9d); color:#fff;">
+      <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
       </a>
     </td>
-    <td align="center" style="border:1px solid #ddd; border-radius:8px; padding:10px;">
-      <a href="https://postman.com" target="_blank">
+    <td align="center" style="border-radius:12px; padding:12px; background: linear-gradient(135deg, #ff9a9e, #fad0c4); color:#fff;">
+      <a href="https://postman.com" target="_blank" rel="noopener noreferrer">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50" />
       </a>
     </td>
   </tr>
 </table>
 
-  
  
  <div align="center">
   <h3>Support:</h3>
