@@ -21,7 +21,7 @@
       <img src="https://cdn-icons-png.flaticon.com/128/201/201614.png" alt="experience" style="max-width: 50px; height: 50px;" />
     </td>
     <td width="90%" align="left" style="font-size: 16px; line-height: 1.6; padding: 10px;">
-      With over  Hello! I'm <strong>Saptarshi Chowdhury</strong>, a dedicated Software Developer based in India. I specialize in <strong>Python development</strong> and full-stack web and app development, leveraging my expertise in both front-end and back-end technologies to build robust and user-friendly applications. My key interest lies in creating innovative, scalable solutions that address real-world challenges and enhance user experiences.
+Hello! I'm <strong>Saptarshi Chowdhury</strong>, a dedicated Software Developer based in India. I specialize in <strong>Python development</strong> and full-stack web and app development, leveraging my expertise in both front-end and back-end technologies to build robust and user-friendly applications. My key interest lies in creating innovative, scalable solutions that address real-world challenges and enhance user experiences.
     </td>
   </tr>
 </table>
