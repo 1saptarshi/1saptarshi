@@ -1,44 +1,42 @@
 ![saptarshichowdhury860@gmail com (1)](https://github.com/1saptarshi/1saptarshi/assets/142312774/859fb3e0-9c54-4fc2-a73d-9e978caece8e)
 
-
  <!-- Title -->
-<h1 align="center" style="font-size: 36px; color: #2e86de; font-family: Arial, sans-serif; margin-bottom: 8px;">
+<h1 align="center" style="font-size: 36px; color: #2e86de; font-family: Arial, sans-serif;">
   Hi 👋, I'm <span style="color: #1abc9c;">Saptarshi Chowdhury</span>
 </h1>
 
-<h3 align="center" style="font-weight: normal; color: #555; font-family: Arial, sans-serif; margin-top: 0;">
+<h3 align="center" style="font-weight: normal; color: #555; font-family: Arial, sans-serif;">
   Full Stack Web and App Developer
 </h3>
 
 <!-- Profile Views -->
-<p align="center" style="margin-top: 6px;">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=1saptarshi&label=Profile%20views&color=0e75b6&style=flat" alt="1saptarshi" />
 </p>
 
 <!-- Bio Section -->
-<table align="center" width="90%" style="margin-top: 10px;">
+<table align="center" width="90%">
   <tr>
-    <td width="60%" align="left" style="font-size: 16px; line-height: 1.6; padding-right: 10px;">
-      Hello! I'm <strong>Saptarshi Chowdhury</strong>, a dedicated Software Developer based in India. I specialize in <strong>Python development</strong> and full-stack web and app development, leveraging my expertise in both front-end and back-end technologies to build robust and user-friendly applications. My key interest lies in creating innovative, scalable solutions that address real-world challenges and enhance user experiences.
+    <td width="10%" align="left">
+      <img src="https://cdn-icons-png.flaticon.com/128/201/201614.png" alt="experience" style="max-width: 50px; height: 50px;" />
     </td>
-    <td width="40%" align="right" style="padding-left: 5px;">
-      <img src="https://cdn-icons-png.flaticon.com/128/201/201614.png" alt="1saptarshi" style="width: 100px; height: 100px; vertical-align: middle;" />
-    </td>
-  </tr>
-</table>
-
-<!-- Experience Section -->
-<table align="center" width="90%" style="margin-top: 5px;">
-  <tr>
-    <td width="6%" align="left" style="padding-right: 8px;">
-      <img src="https://cdn-icons-png.flaticon.com/128/3112/3112946.png" alt="experience" style="width: 40px; height: 40px;" />
-    </td>
-    <td width="94%" align="left" style="font-size: 16px; line-height: 1.6;">
+    <td width="90%" align="left" style="font-size: 16px; line-height: 1.6; padding: 10px;">
       With over <strong>3 years of experience</strong> in the software development industry, I have developed a strong foundation in programming, problem-solving, and software engineering principles. My journey began with a deep fascination for how technology can solve complex problems and improve everyday life. Over the years, I have worked on diverse projects, gaining hands-on experience in modern frameworks, cloud computing, and API integrations.
     </td>
   </tr>
 </table>
 
+<!-- Experience Section -->
+<table align="center" width="90%">
+  <tr>
+    <td width="10%" align="left">
+      <img src="https://cdn-icons-png.flaticon.com/128/3112/3112946.png" alt="experience" style="max-width: 50px; height: 50px;" />
+    </td>
+    <td width="90%" align="left" style="font-size: 16px; line-height: 1.6; padding: 10px;">
+      With over <strong>3 years of experience</strong> in the software development industry, I have developed a strong foundation in programming, problem-solving, and software engineering principles. My journey began with a deep fascination for how technology can solve complex problems and improve everyday life. Over the years, I have worked on diverse projects, gaining hands-on experience in modern frameworks, cloud computing, and API integrations.
+    </td>
+  </tr>
+</table>
 
 
 <div align="center">
