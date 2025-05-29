@@ -1,6 +1,6 @@
 ![saptarshichowdhury860@gmail com (1)](https://github.com/1saptarshi/1saptarshi/assets/142312774/859fb3e0-9c54-4fc2-a73d-9e978caece8e)
  https://pbs.twimg.com/profile_banners/1510632132875460624/1748514601/1080x360
- 
+ ![saptarshichowdhury860@gmail com (1)]( https://pbs.twimg.com/profile_banners/1510632132875460624/1748514601/1080x360)
 
 
  <!-- Title -->
