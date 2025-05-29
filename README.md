@@ -24,17 +24,17 @@
 </div>
 
 <div align="center">
-  <table>
+  <table cellspacing="15" style="border-collapse: separate;">
     <tr>
-      <td align="center">
+      <td align="center" style="border-radius: 15px; background: linear-gradient(135deg, #ff512f, #dd2476); color: white; box-shadow: 0 6px 15px rgba(221, 36, 118, 0.3); min-width: 250px; padding: 20px;">
         <h3>🔭 I’m currently working on</h3>
         <strong>AI-Powered Healthcare System</strong>
       </td>
-      <td align="center">
+      <td align="center" style="border-radius: 15px; background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); color: white; box-shadow: 0 6px 15px rgba(44, 83, 100, 0.3); min-width: 250px; padding: 20px;">
         <h3>🌱 I’m currently learning</h3>
         <strong>Python / Flask / AI/ML / React / MongoDB</strong>
       </td>
-      <td align="center">
+      <td align="center" style="border-radius: 15px; background: linear-gradient(135deg, #ff512f, #dd2476); box-shadow: 0 6px 15px rgba(221, 36, 118, 0.3); min-width: 250px; padding: 20px;">
         <h3>👯 I’m looking to collaborate on</h3>
         <a href="https://github.com/users/1saptarshi/projects/2/views/1">
           <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width: 30px; height: 30px;">
@@ -42,19 +42,19 @@
       </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" style="border-radius: 15px; background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); color: white; box-shadow: 0 6px 15px rgba(44, 83, 100, 0.3); min-width: 250px; padding: 20px;">
         <h3>🤝 I’m looking for help with</h3>
         <a href="https://github.com/users/1saptarshi/projects/2/views/1">
           <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width: 30px; height: 30px;">
         </a>
       </td>
-      <td align="center">
+      <td align="center" style="border-radius: 15px; background: linear-gradient(135deg, #ff512f, #dd2476); box-shadow: 0 6px 15px rgba(221, 36, 118, 0.3); min-width: 250px; padding: 20px;">
         <h3>👨‍💻 All of my projects are available at</h3>
         <a href="https://github.com/1saptarshi?tab=repositories">
           <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width: 30px; height: 30px;">
         </a>
       </td>
-      <td align="center">
+      <td align="center" style="border-radius: 15px; background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); color: white; box-shadow: 0 6px 15px rgba(44, 83, 100, 0.3); min-width: 250px; padding: 20px;">
         <h3>📝 I regularly write articles on</h3>
         <a href="https://medium.com/@1saptarshichowdhury">
           <img src="https://static-00.iconduck.com/assets.00/logo-medium-icon-2048x2048-asg2886j.png" alt="Medium" style="width: 30px; height: 30px;">
@@ -62,33 +62,41 @@
       </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" style="border-radius: 15px; background: linear-gradient(135deg, #ff512f, #dd2476); color: white; box-shadow: 0 6px 15px rgba(221, 36, 118, 0.3); min-width: 250px; padding: 20px;">
         <h3>💬 Ask me about</h3>
         <strong>WEB AND APP DEV</strong>
       </td>
-      <td align="center">
+      <td align="center" colspan="2" style="border-radius: 15px; background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); color: white; box-shadow: 0 6px 15px rgba(44, 83, 100, 0.3); min-width: 520px; padding: 20px;">
         <h3>📫 How to reach me</h3>
         <strong>saptarshichowdhury860@gmail.com</strong>
-      </td>
-      <td align="center">
-        &nbsp;
       </td>
     </tr>
   </table>
 </div>
 
- 
-
-
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
- <a href="https://codeforces.com/profile/saptarshichowdhury" target="_blank"><img style="margin: 10px" src="https://store-images.s-microsoft.com/image/apps.48094.14504742535903781.aedbca21-113a-48f4-b001-4204e73b22fc.503f883f-8339-4dc5-8609-81713a59281f?h=464" alt="codeforce" height="30"/></a>
-    <a href="https://medium.com/@1saptarshichowdhury" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/logo-medium-icon-2048x2048-asg2886j.png" alt="medium" height="30"/></a>
-    <a href="https://dev.to/1saptarshi" target="_blank"><img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dev-community-icon.png" alt="Dev" height="30"/></a>
-    <a href="https://stackoverflow.com/users/25403524/saptarshi-chowdhury" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/stack-overflow-icon-2048x2048-7ohycn5z.png" alt="stackoverflow" height="30"/></a>
-    <a href="https://www.linkedin.com/in/saptarshi-chowdhury-ba1972234/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="linkedin" height="30" /></a>
-    <a href="https://buymeacoffee.com/1saptarshi" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/da:true/resize:fit:480/0*X9tbxUUloPowCJnn.gif" alt="buyneacoffee" height="30"/></a>
+  <a href="https://codeforces.com/profile/saptarshichowdhury" target="_blank" style="margin: 10px;">
+    <img src="https://store-images.s-microsoft.com/image/apps.48094.14504742535903781.aedbca21-113a-48f4-b001-4204e73b22fc.503f883f-8339-4dc5-8609-81713a59281f?h=464" alt="codeforce" height="30" />
+  </a>
+  <a href="https://medium.com/@1saptarshichowdhury" target="_blank" style="margin: 10px;">
+    <img src="https://static-00.iconduck.com/assets.00/logo-medium-icon-2048x2048-asg2886j.png" alt="medium" height="30" />
+  </a>
+  <a href="https://dev.to/1saptarshi" target="_blank" style="margin: 10px;">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dev-community-icon.png" alt="Dev" height="30" />
+  </a>
+  <a href="https://stackoverflow.com/users/25403524/saptarshi-chowdhury" target="_blank" style="margin: 10px;">
+    <img src="https://static-00.iconduck.com/assets.00/stack-overflow-icon-2048x2048-7ohycn5z.png" alt="stackoverflow" height="30" />
+  </a>
+  <a href="https://www.linkedin.com/in/saptarshi-chowdhury-ba1972234/" target="_blank" style="margin: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="linkedin" height="30" />
+  </a>
+  <a href="https://buymeacoffee.com/1saptarshi" target="_blank" style="margin: 10px;">
+    <img src="https://miro.medium.com/v2/da:true/resize:fit:480/0*X9tbxUUloPowCJnn.gif" alt="buymeacoffee" height="30" />
+  </a>
+</p>
+
+ 
 <h3 align="center">Languages / Tools / Technologies :</h3>
 
 <table align="center" cellspacing="12" cellpadding="12">
