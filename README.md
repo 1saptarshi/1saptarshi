@@ -27,7 +27,7 @@
   <table cellspacing="15" style="border-collapse: separate;">
     <tr>
       <td align="center" style="border-radius: 15px; background: linear-gradient(135deg, #ff512f, #dd2476); color: white; box-shadow: 0 6px 15px rgba(221, 36, 118, 0.3); min-width: 250px; padding: 20px;">
-        <h3>🔭 I’m currently working on</h3>
+        <h3>🔭I’m currently working on</h3>
         <strong>AI-Powered Healthcare System</strong>
       </td>
       <td align="center" style="border-radius: 15px; background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); color: white; box-shadow: 0 6px 15px rgba(44, 83, 100, 0.3); min-width: 250px; padding: 20px;">
@@ -43,19 +43,19 @@
     </tr>
     <tr>
       <td align="center" style="border-radius: 15px; background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); color: white; box-shadow: 0 6px 15px rgba(44, 83, 100, 0.3); min-width: 250px; padding: 20px;">
-        <h3>🤝 I’m looking for help with</h3>
+        <h3>🤝I’m looking for help</h3>
         <a href="https://github.com/users/1saptarshi/projects/2/views/1">
           <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width: 30px; height: 30px;">
         </a>
       </td>
       <td align="center" style="border-radius: 15px; background: linear-gradient(135deg, #ff512f, #dd2476); box-shadow: 0 6px 15px rgba(221, 36, 118, 0.3); min-width: 250px; padding: 20px;">
-        <h3>👨‍💻 All of my projects are available at</h3>
+        <h3>👨‍💻my all projects are available at</h3>
         <a href="https://github.com/1saptarshi?tab=repositories">
           <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width: 30px; height: 30px;">
         </a>
       </td>
       <td align="center" style="border-radius: 15px; background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); color: white; box-shadow: 0 6px 15px rgba(44, 83, 100, 0.3); min-width: 250px; padding: 20px;">
-        <h3>📝 I regularly write articles on</h3>
+        <h3>📝I regularly write articles on</h3>
         <a href="https://medium.com/@1saptarshichowdhury">
           <img src="https://static-00.iconduck.com/assets.00/logo-medium-icon-2048x2048-asg2886j.png" alt="Medium" style="width: 30px; height: 30px;">
         </a>
@@ -64,7 +64,7 @@
     <tr>
       <td align="center" style="border-radius: 15px; background: linear-gradient(135deg, #ff512f, #dd2476); color: white; box-shadow: 0 6px 15px rgba(221, 36, 118, 0.3); min-width: 250px; padding: 20px;">
         <h3>💬 Ask me about</h3>
-        <strong>WEB AND APP DEV</strong>
+        <strong>WEB development</strong>
       </td>
       <td align="center" colspan="2" style="border-radius: 15px; background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); color: white; box-shadow: 0 6px 15px rgba(44, 83, 100, 0.3); min-width: 520px; padding: 20px;">
         <h3>📫 How to reach me</h3>
