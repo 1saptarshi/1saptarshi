@@ -73,28 +73,42 @@
     </tr>
   </table>
 </div>
-
 <h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://codeforces.com/profile/saptarshichowdhury" target="_blank" style="margin: 10px;">
-    <img src="https://store-images.s-microsoft.com/image/apps.48094.14504742535903781.aedbca21-113a-48f4-b001-4204e73b22fc.503f883f-8339-4dc5-8609-81713a59281f?h=464" alt="codeforce" height="30" />
-  </a>
-  <a href="https://medium.com/@1saptarshichowdhury" target="_blank" style="margin: 10px;">
-    <img src="https://static-00.iconduck.com/assets.00/logo-medium-icon-2048x2048-asg2886j.png" alt="medium" height="30" />
-  </a>
-  <a href="https://dev.to/1saptarshi" target="_blank" style="margin: 10px;">
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dev-community-icon.png" alt="Dev" height="30" />
-  </a>
-  <a href="https://stackoverflow.com/users/25403524/saptarshi-chowdhury" target="_blank" style="margin: 10px;">
-    <img src="https://static-00.iconduck.com/assets.00/stack-overflow-icon-2048x2048-7ohycn5z.png" alt="stackoverflow" height="30" />
-  </a>
-  <a href="https://www.linkedin.com/in/saptarshi-chowdhury-ba1972234/" target="_blank" style="margin: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="linkedin" height="30" />
-  </a>
-  <a href="https://buymeacoffee.com/1saptarshi" target="_blank" style="margin: 10px;">
-    <img src="https://miro.medium.com/v2/da:true/resize:fit:480/0*X9tbxUUloPowCJnn.gif" alt="buymeacoffee" height="30" />
-  </a>
-</p>
+
+<table align="center">
+  <tr>
+    <td align="center" style="border: 1px solid #ccc; padding: 20px; margin: 10px;">
+      <a href="https://codeforces.com/profile/saptarshichowdhury" target="_blank">
+        <img src="https://store-images.s-microsoft.com/image/apps.48094.14504742535903781.aedbca21-113a-48f4-b001-4204e73b22fc.503f883f-8339-4dc5-8609-81713a59281f?h=464" alt="codeforce" height="40" />
+      </a>
+    </td>
+    <td align="center" style="border: 1px solid #ccc; padding: 20px; margin: 10px;">
+      <a href="https://medium.com/@1saptarshichowdhury" target="_blank">
+        <img src="https://static-00.iconduck.com/assets.00/logo-medium-icon-2048x2048-asg2886j.png" alt="medium" height="40" />
+      </a>
+    </td>
+    <td align="center" style="border: 1px solid #ccc; padding: 20px; margin: 10px;">
+      <a href="https://dev.to/1saptarshi" target="_blank">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dev-community-icon.png" alt="Dev" height="40" />
+      </a>
+    </td>
+    <td align="center" style="border: 1px solid #ccc; padding: 20px; margin: 10px;">
+      <a href="https://stackoverflow.com/users/25403524/saptarshi-chowdhury" target="_blank">
+        <img src="https://static-00.iconduck.com/assets.00/stack-overflow-icon-2048x2048-7ohycn5z.png" alt="stackoverflow" height="40" />
+      </a>
+    </td>
+    <td align="center" style="border: 1px solid #ccc; padding: 20px; margin: 10px;">
+      <a href="https://www.linkedin.com/in/saptarshi-chowdhury-ba1972234/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="linkedin" height="40" />
+      </a>
+    </td>
+    <td align="center" style="border: 1px solid #ccc; padding: 20px; margin: 10px;">
+      <a href="https://buymeacoffee.com/1saptarshi" target="_blank">
+        <img src="https://miro.medium.com/v2/da:true/resize:fit:480/0*X9tbxUUloPowCJnn.gif" alt="buymeacoffee" height="40" />
+      </a>
+    </td>
+  </tr>
+</table>
 
  
 <h3 align="center">Languages / Tools / Technologies :</h3>
