@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="center" style="font-weight: normal; color: #555; font-family: Arial, sans-serif;">
-  Full Stack Web and App Developer
+  Full Stack Web Developer
 </h3>
 
 <!-- Profile Views -->
