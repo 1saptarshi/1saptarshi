@@ -6,7 +6,7 @@
   Hi 👋, I'm <span style="color: #1abc9c;">Saptarshi Chowdhury</span>
 </h1>
 
-<h3 align="center" style="font-weight: normal; color: #555; font-family: Arial, sans-serif;">
+<h3 align="center" style="font-weight: normal; color: #555; font-family: Arial, sans-serif;"> 
   Full Stack Web and App Developer
 </h3>
 
