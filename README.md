@@ -137,12 +137,7 @@ Hello! I'm <strong>Saptarshi Chowdhury</strong>, a dedicated Software Developer 
         <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
       </a>
     </td>
-   <tr>
-    <td align="center" style="border-radius:12px; padding:12px; background: linear-gradient(135deg, #6e8efb, #a777e3); color:#fff;">
-      <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.icons8.com/color/512/flask.png" alt="React" height="50" />
-      </a>
-    </td>
+   
     <td align="center" style="border-radius:12px; padding:12px; background: linear-gradient(135deg, #f7971e, #ffd200); color:#fff;">
       <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank" rel="noopener noreferrer">
         <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
@@ -218,6 +213,12 @@ Hello! I'm <strong>Saptarshi Chowdhury</strong>, a dedicated Software Developer 
     <td align="center" style="border-radius:12px; padding:12px; background: linear-gradient(135deg, #ff9a9e, #fad0c4); color:#fff;">
       <a href="https://postman.com" target="_blank" rel="noopener noreferrer">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50" />
+      </a>
+    </td>
+   <tr>
+    <td align="center" style="border-radius:12px; padding:12px; background: linear-gradient(135deg, #6e8efb, #a777e3); color:#fff;">
+      <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.icons8.com/color/512/flask.png" alt="React" height="50" />
       </a>
     </td>
   </tr>
