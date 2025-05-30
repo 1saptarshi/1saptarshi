@@ -138,7 +138,7 @@ Hello! I'm <strong>Saptarshi Chowdhury</strong>, a dedicated Software Developer 
       </a>
     </td>
    
-    <td align="center" style="border-radius:12px; padding:12px; background: linear-gradient(135deg, #f7971e, #ffd200); color:#fff;">
+   <td align="center" style="border-radius:12px; padding:12px; background: linear-gradient(135deg, #f7971e, #ffd200); color:#fff;">
       <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank" rel="noopener noreferrer">
         <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
       </a>
