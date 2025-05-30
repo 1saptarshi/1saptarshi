@@ -127,90 +127,100 @@ Hello! I'm <strong>Saptarshi Chowdhury</strong>, a dedicated Software Developer 
   </tr>
 </table>
 
- 
-<h3 align="center">Languages / Tools / Technologies :</h3>
+ <h3 align="center">Languages / Tools / Technologies :</h3>
 
 <table align="center" cellspacing="12" cellpadding="12">
   <tr>
-    <td align="center" style="border-radius:12px; padding:12px; background: linear-gradient(135deg, #6e8efb, #a777e3); color:#fff;">
+    <td align="center" style="border-radius:12px; padding:12px; background:#f0f0f0;">
       <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
         <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
       </a>
     </td>
-   
-   <td align="center" style="border-radius:12px; padding:12px; background: linear-gradient(135deg, #f7971e, #ffd200); color:#fff;">
-      <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank" rel="noopener noreferrer">
+    <td align="center" style="border-radius:12px; padding:12px; background:#f0f0f0;">
+      <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
       </a>
     </td>
-    <td align="center" style="border-radius:12px; padding:12px; background: linear-gradient(135deg, #43cea2, #185a9d); color:#fff;">
+    <td align="center" style="border-radius:12px; padding:12px; background:#f0f0f0;">
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">
         <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
       </a>
     </td>
-    <td align="center" style="border-radius:12px; padding:12px; background: linear-gradient(135deg, #ff9a9e, #fad0c4); color:#fff;">
+    <td align="center" style="border-radius:12px; padding:12px; background:#f0f0f0;">
       <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" rel="noopener noreferrer">
         <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
       </a>
     </td>
-    <td align="center" style="border-radius:12px; padding:12px; background: linear-gradient(135deg, #ff7e5f, #feb47b); color:#fff;">
-      <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noopener noreferrer">
+    <td align="center" style="border-radius:12px; padding:12px; background:#f0f0f0;">
+      <a href="https://www.w3schools.com/js/" target="_blank" rel="noopener noreferrer">
         <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
       </a>
     </td>
-    <td align="center" style="border-radius:12px; padding:12px; background: linear-gradient(135deg, #00c6ff, #0072ff); color:#fff;">
+    <td align="center" style="border-radius:12px; padding:12px; background:#f0f0f0;">
       <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
       </a>
     </td>
-    <td align="center" style="border-radius:12px; padding:12px; background: linear-gradient(135deg, #00f260, #0575e6); color:#fff;">
+    <td align="center" style="border-radius:12px; padding:12px; background:#f0f0f0;">
       <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
       </a>
     </td>
-    <td align="center" style="border-radius:12px; padding:12px; background: linear-gradient(135deg, #f7971e, #ffd200); color:#fff;">
+    <td align="center" style="border-radius:12px; padding:12px; background:#f0f0f0;">
       <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center" style="border-radius:12px; padding:12px; background: linear-gradient(135deg, #43cea2, #185a9d); color:#fff;">
+    <td align="center" style="border-radius:12px; padding:12px; background:#f0f0f0;">
       <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
       </a>
     </td>
-    <td align="center" style="border-radius:12px; padding:12px; background: linear-gradient(135deg, #ff9a9e, #fad0c4); color:#fff;">
+    <td align="center" style="border-radius:12px; padding:12px; background:#f0f0f0;">
       <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
         <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
       </a>
     </td>
-    <td align="center" style="border-radius:12px; padding:12px; background: linear-gradient(135deg, #ff7e5f, #feb47b); color:#fff;">
+    <td align="center" style="border-radius:12px; padding:12px; background:#f0f0f0;">
+      <a href="https://palletsprojects.com/p/flask/" target="_blank" rel="noopener noreferrer">
+        <img src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />
+      </a>
+    </td>
+    <td align="center" style="border-radius:12px; padding:12px; background:#f0f0f0;">
+      <a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />
+      </a>
+    </td>
+    <td align="center" style="border-radius:12px; padding:12px; background:#f0f0f0;">
       <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />
       </a>
     </td>
-    <td align="center" style="border-radius:12px; padding:12px; background: linear-gradient(135deg, #00c6ff, #0072ff); color:#fff;">
+    <td align="center" style="border-radius:12px; padding:12px; background:#f0f0f0;">
       <a href="https://wordpress.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />
       </a>
     </td>
-    <td align="center" style="border-radius:12px; padding:12px; background: linear-gradient(135deg, #00f260, #0575e6); color:#fff;">
+    <td align="center" style="border-radius:12px; padding:12px; background:#f0f0f0;">
       <a href="https://www.tailwindcss.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />
       </a>
     </td>
-    <td align="center" style="border-radius:12px; padding:12px; background: linear-gradient(135deg, #f7971e, #ffd200); color:#fff;">
+    <td align="center" style="border-radius:12px; padding:12px; background:#f0f0f0;">
       <a href="https://mui.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" />
       </a>
     </td>
-    <td align="center" style="border-radius:12px; padding:12px; background: linear-gradient(135deg, #43cea2, #185a9d); color:#fff;">
+  </tr>
+  <tr>
+    <td align="center" colspan="4" style="border-radius:12px; padding:12px; background:#f0f0f0;">
       <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
       </a>
     </td>
-    <td align="center" style="border-radius:12px; padding:12px; background: linear-gradient(135deg, #ff9a9e, #fad0c4); color:#fff;">
+    <td align="center" colspan="4" style="border-radius:12px; padding:12px; background:#f0f0f0;">
       <a href="https://postman.com" target="_blank" rel="noopener noreferrer">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50" />
       </a>
