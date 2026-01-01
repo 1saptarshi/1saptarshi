@@ -1,207 +1,265 @@
+ ![saptarshichowdhury860@gmail com (1)]( https://pbs.twimg.com/profile_banners/1510632132875460624/1748514601/1080x360)
 
-<!-- Hero Banner -->
-<div align="center">
-  <img src="https://pbs.twimg.com/profile_banners/1510632132875460624/1748514601/1080x360" alt="Hero Banner" style="width: 100%; max-width: 1000px; border-radius: 25px; box-shadow: 0 10px 30px rgba(0,229,255,0.3); border: 1px solid rgba(255,255,255,0.1);">
-</div>
 
-<br/>
-
-<!-- Main Title with MAXIMUM Glow for Visibility -->
-<h1 align="center">
-  <span style="color: #ffffff; font-size: 65px; font-weight: 900; text-shadow: 0 0 30px #00e5ff;">
-    Saptarshi Chowdhury
-  </span>
+<!-- Title -->
+<h1 align="center" style="font-size: 36px; color: #2e86de; font-family: Arial, sans-serif;">
+Hi 👋, I'm <span style="color: #1abc9c;">Saptarshi Chowdhury</span>
 </h1>
 
+<h3 align="center" style="font-weight: normal; color: #555; font-family: Arial, sans-serif;">
+Full Stack Web Developer
+</h3>
+
+<!-- Profile Views -->
 <p align="center">
-  <span style="font-size: 30px; color: #ffffff; font-weight: 700; letter-spacing: 1px; text-shadow: 0 0 10px rgba(255,255,255,0.5);">Full Stack Developer & Python Engineer</span>
+<img src="https://komarev.com/ghpvc/?username=1saptarshi&label=Profile%20views&color=0e75b6&style=flat" alt="1saptarshi" />
 </p>
 
-<br/>
+<!-- Bio Section -->
+<table align="center" width="90%">
+<tr>
+<td width="10%" align="left">
+<img src="https://cdn-icons-png.flaticon.com/128/201/201614.png" alt="experience" style="max-width: 50px; height: 50px;" />
+</td>
+<td width="90%" align="left" style="font-size: 16px; line-height: 1.6; padding: 10px;">
+Hello! I'm <strong>Saptarshi Chowdhury</strong>, a dedicated Software Developer based in India. I specialize in <strong>Python development</strong> and full-stack web and app development, leveraging my expertise in both front-end and back-end technologies to build robust and user-friendly applications. My key interest lies in creating innovative, scalable solutions that address real-world challenges and enhance user experiences.
+</td>
+</tr>
+</table>
 
-<!-- Floating Navigation Buttons -->
+<!-- Experience Section -->
+<table align="center" width="90%">
+<tr>
+<td width="10%" align="left">
+<img src="https://cdn-icons-png.flaticon.com/128/3112/3112946.png" alt="experience" style="max-width: 50px; height: 50px;" />
+</td>
+<td width="90%" align="left" style="font-size: 16px; line-height: 1.6; padding: 10px;">
+With over <strong>3 years of experience</strong> in the software development industry, I have developed a strong foundation in programming, problem-solving, and software engineering principles. My journey began with a deep fascination for how technology can solve complex problems and improve everyday life. Over the years, I have worked on diverse projects, gaining hands-on experience in modern frameworks, cloud computing, and API integrations.
+</td>
+</tr>
+</table>
+
+
 <div align="center">
-  <a href="mailto:saptarshichowdhury860@gmail.com">
-    <button style="background: linear-gradient(90deg, #d500f9, #9c27b0); color: white; padding: 15px 35px; border: none; border-radius: 30px; font-size: 19px; font-weight: bold; cursor: pointer; box-shadow: 0 4px 15px rgba(213, 0, 249, 0.4); margin: 5px; text-transform: uppercase;">
-      📩 Contact Me
-    </button>
-  </a>
-  <a href="https://github.com/1saptarshi?tab=repositories">
-    <button style="background: #0d1117; color: white; padding: 15px 35px; border: 2px solid #ffffff; border-radius: 30px; font-size: 19px; font-weight: bold; cursor: pointer; margin: 5px; text-transform: uppercase; box-shadow: 0 0 10px rgba(255,255,255,0.2);">
-      💻 View Portfolio
-    </button>
-  </a>
+<table cellspacing="15" style="border-collapse: separate;">
+<tr>
+<td align="center" style="border-radius: 15px; background: linear-gradient(135deg, #ff512f, #dd2476); color: white; box-shadow: 0 6px 15px rgba(221, 36, 118, 0.3); min-width: 250px; padding: 20px;">
+<h3>🔭I’m currently working on</h3>
+<strong>AI-Powered Healthcare System</strong>
+</td>
+<td align="center" style="border-radius: 15px; background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); color: white; box-shadow: 0 6px 15px rgba(44, 83, 100, 0.3); min-width: 250px; padding: 20px;">
+<h3>🌱 I’m currently learning</h3>
+<strong>Python / Flask / AI/ML / React / MongoDB</strong>
+</td>
+<td align="center" style="border-radius: 15px; background: linear-gradient(135deg, #ff512f, #dd2476); box-shadow: 0 6px 15px rgba(221, 36, 118, 0.3); min-width: 250px; padding: 20px;">
+<h3>👯 I’m looking to collaborate on</h3>
+<a href="https://github.com/users/1saptarshi/projects/2/views/1">
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width: 30px; height: 30px;">
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" style="border-radius: 15px; background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); color: white; box-shadow: 0 6px 15px rgba(44, 83, 100, 0.3); min-width: 250px; padding: 20px;">
+<h3>🤝I’m looking for help</h3>
+<a href="https://github.com/users/1saptarshi/projects/2/views/1">
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width: 30px; height: 30px;">
+</a>
+</td>
+<td align="center" style="border-radius: 15px; background: linear-gradient(135deg, #ff512f, #dd2476); box-shadow: 0 6px 15px rgba(221, 36, 118, 0.3); min-width: 250px; padding: 20px;">
+<h3>👨‍💻my all projects are available at</h3>
+<a href="https://github.com/1saptarshi?tab=repositories">
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width: 30px; height: 30px;">
+</a>
+</td>
+<td align="center" style="border-radius: 15px; background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); color: white; box-shadow: 0 6px 15px rgba(44, 83, 100, 0.3); min-width: 250px; padding: 20px;">
+<h3>📝I regularly write articles on</h3>
+<a href="https://medium.com/@1saptarshichowdhury">
+<img src="https://static-00.iconduck.com/assets.00/logo-medium-icon-2048x2048-asg2886j.png" alt="Medium" style="width: 30px; height: 30px;">
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" style="border-radius: 15px; background: linear-gradient(135deg, #ff512f, #dd2476); color: white; box-shadow: 0 6px 15px rgba(221, 36, 118, 0.3); min-width: 250px; padding: 20px;">
+<h3>💬 Ask me about</h3>
+<strong>WEB development</strong>
+</td>
+<td align="center" colspan="2" style="border-radius: 15px; background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); color: white; box-shadow: 0 6px 15px rgba(44, 83, 100, 0.3); min-width: 520px; padding: 20px;">
+<h3>📫 How to reach me</h3>
+<strong>saptarshichowdhury860@gmail.com</strong>
+</td>
+</tr>
+</table>
 </div>
+<h3 align="center">Connect with me:</h3>
 
-<br/>
-<br/>
-
-<!-- High Contrast Bio Card -->
-<table align="center" width="80%" style="background: #0d1117; border-radius: 20px; border: 2px solid #ffffff; padding: 20px; box-shadow: 0 0 20px rgba(255,255,255,0.1);">
-  <tr>
-    <td align="center" style="color: #ffffff; padding: 35px; font-size: 22px; line-height: 1.8; font-weight: 600;">
-      <span style="font-size: 45px;">✨</span><br>
-      Hello! I'm a passionate Software Developer based in <strong style="text-shadow: 0 0 10px white;">🇮🇳 India</strong>.<br>
-      I specialize in <span style="color: #00e5ff; font-weight: 900; text-shadow: 0 0 15px #00e5ff;"><strong>Python</strong></span>, <span style="color: #61dafb; font-weight: 900; text-shadow: 0 0 15px #61dafb;"><strong>React</strong></span>, and <span style="color: #d500f9; font-weight: 900; text-shadow: 0 0 15px #d500f9;"><strong>AI/ML</strong></span>.<br>
-      With <strong>3+ years of experience</strong>, I transform complex problems into elegant, scalable code.<br>
-      Currently building the future of <strong style="color: #ffffff; text-shadow: 0 0 20px #ffffff;">Healthcare AI</strong>.
-    </td>
-  </tr>
+<table align="center">
+<tr>
+<td align="center" style="border: 1px solid #ccc; padding: 20px; margin: 10px;">
+<a href="https://codeforces.com/profile/saptarshichowdhury" target="_blank">
+<img src="https://store-images.s-microsoft.com/image/apps.48094.14504742535903781.aedbca21-113a-48f4-b001-4204e73b22fc.503f883f-8339-4dc5-8609-81713a59281f?h=464" alt="codeforce" height="40" />
+</a>
+</td>
+<td align="center" style="border: 1px solid #ccc; padding: 20px; margin: 10px;">
+<a href="https://medium.com/@1saptarshichowdhury" target="_blank">
+<img src="https://static-00.iconduck.com/assets.00/logo-medium-icon-2048x2048-asg2886j.png" alt="medium" height="40" />
+</a>
+</td>
+<td align="center" style="border: 1px solid #ccc; padding: 20px; margin: 10px;">
+<a href="https://dev.to/1saptarshi" target="_blank">
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dev-community-icon.png" alt="Dev" height="40" />
+</a>
+</td>
+<td align="center" style="border: 1px solid #ccc; padding: 20px; margin: 10px;">
+<a href="https://stackoverflow.com/users/25403524/saptarshi-chowdhury" target="_blank">
+<img src="https://static-00.iconduck.com/assets.00/stack-overflow-icon-2048x2048-7ohycn5z.png" alt="stackoverflow" height="40" />
+</a>
+</td>
+<td align="center" style="border: 1px solid #ccc; padding: 20px; margin: 10px;">
+<a href="https://www.linkedin.com/in/saptarshi-chowdhury-ba1972234/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="linkedin" height="40" />
+</a>
+</td>
+<td align="center" style="border: 1px solid #ccc; padding: 20px; margin: 10px;">
+<a href="https://buymeacoffee.com/1saptarshi" target="_blank">
+<img src="https://miro.medium.com/v2/da:true/resize:fit:480/0*X9tbxUUloPowCJnn.gif" alt="buymeacoffee" height="40" />
+</a>
+</td>
+</tr>
 </table>
 
-<br/>
-<br/>
+<h3 align="center">Languages / Tools / Technologies :</h3>
 
-<!-- High Contrast Status Cards -->
-<h2 align="center" style="color: #ffffff; font-size: 35px; text-shadow: 0 0 20px #00e5ff; letter-spacing: 2px;">SYSTEM STATUS</h2>
-<br>
-
-<table align="center" width="90%" cellspacing="20">
-  <tr>
-    <td width="30%" align="center" style="background: #0d1117; padding: 35px; border-radius: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.7); border: 2px solid #00e5ff;">
-      <h3 style="color: #ffffff; font-size: 26px;">🔭 Current Mission</h3>
-      <p style="color: #00e5ff; font-weight: bold; font-size: 18px; margin-bottom: 5px;">PROJECT IN PROGRESS</p>
-      <p style="color: #ffffff; font-weight: bold; font-size: 24px; text-shadow: 0 0 10px rgba(255,255,255,0.5);">AI Healthcare System</p>
-    </td>
-    
-    <td width="30%" align="center" style="background: #0d1117; padding: 35px; border-radius: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.7); border: 2px solid #d500f9;">
-      <h3 style="color: #ffffff; font-size: 26px;">🧠 Knowledge Base</h3>
-      <p style="color: #d500f9; font-weight: bold; font-size: 18px; margin-bottom: 5px;">SKILL UPGRADING</p>
-      <p style="color: #ffffff; font-weight: bold; font-size: 24px; text-shadow: 0 0 10px rgba(255,255,255,0.5);">Python / Flask / AI/ML</p>
-    </td>
-    
-    <td width="30%" align="center" style="background: #0d1117; padding: 35px; border-radius: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.7); border: 2px solid #27c93f;">
-      <h3 style="color: #ffffff; font-size: 26px;">🤝 Collaboration</h3>
-      <p style="color: #27c93f; font-weight: bold; font-size: 18px; margin-bottom: 5px;">OPEN TO WORK</p>
-      <p style="color: #ffffff; font-weight: bold; font-size: 24px; text-shadow: 0 0 10px rgba(255,255,255,0.5);">Full Stack Web Apps</p>
-    </td>
-  </tr>
+<table align="center" cellspacing="12" cellpadding="12">
+<tr>
+<td align="center" style="border-radius:12px; padding:12px; background:#f0f0f0;">
+<a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
+<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
+</a>
+</td>
+<td align="center" style="border-radius:12px; padding:12px; background:#f0f0f0;">
+<a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
+<img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
+</a>
+</td>
+<td align="center" style="border-radius:12px; padding:12px; background:#f0f0f0;">
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">
+<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
+</a>
+</td>
+<td align="center" style="border-radius:12px; padding:12px; background:#f0f0f0;">
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" rel="noopener noreferrer">
+<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+</a>
+</td>
+<td align="center" style="border-radius:12px; padding:12px; background:#f0f0f0;">
+<a href="https://www.w3schools.com/js/" target="_blank" rel="noopener noreferrer">
+<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+</a>
+</td>
+<td align="center" style="border-radius:12px; padding:12px; background:#f0f0f0;">
+<a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
+</a>
+</td>
+<td align="center" style="border-radius:12px; padding:12px; background:#f0f0f0;">
+<a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
+<img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
+</a>
+</td>
+<td align="center" style="border-radius:12px; padding:12px; background:#f0f0f0;">
+<a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
+<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" style="border-radius:12px; padding:12px; background:#f0f0f0;">
+<a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
+<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
+</a>
+</td>
+<td align="center" style="border-radius:12px; padding:12px; background:#f0f0f0;">
+<a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
+<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+</a>
+</td>
+<td align="center" style="border-radius:12px; padding:12px; background:#f0f0f0;">
+<a href="https://palletsprojects.com/p/flask/" target="_blank" rel="noopener noreferrer">
+<img src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />
+</a>
+</td>
+<td align="center" style="border-radius:12px; padding:12px; background:#f0f0f0;">
+<a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer">
+<img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />
+</a>
+</td>
+<td align="center" style="border-radius:12px; padding:12px; background:#f0f0f0;">
+<a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer">
+<img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />
+</a>
+</td>
+<td align="center" style="border-radius:12px; padding:12px; background:#f0f0f0;">
+<a href="https://wordpress.com/" target="_blank" rel="noopener noreferrer">
+<img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />
+</a>
+</td>
+<td align="center" style="border-radius:12px; padding:12px; background:#f0f0f0;">
+<a href="https://www.tailwindcss.com/" target="_blank" rel="noopener noreferrer">
+<img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />
+</a>
+</td>
+<td align="center" style="border-radius:12px; padding:12px; background:#f0f0f0;">
+<a href="https://mui.com/" target="_blank" rel="noopener noreferrer">
+<img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" />
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="4" style="border-radius:12px; padding:12px; background:#f0f0f0;">
+<a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
+<img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
+</a>
+</td>
+<td align="center" colspan="4" style="border-radius:12px; padding:12px; background:#f0f0f0;">
+<a href="https://postman.com" target="_blank" rel="noopener noreferrer">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50" />
+</a>
+</td>
+</tr>
 </table>
 
-<br/>
-<br/>
 
-<!-- Tech Stack with MAXIMUM VISIBILITY LOGOS -->
-<h2 align="center" style="color: #ffffff; font-size: 35px; text-shadow: 0 0 20px #d500f9;">TOOLS & TECHNOLOGIES I COMMAND</h2>
-<p align="center" style="color: #ffffff; font-size: 20px; font-weight: bold; text-shadow: 0 0 5px white;">My Tech Arsenal</p>
-
-<div align="center" style="margin-top: 20px;">
-  
-  <!-- Frontend Logos (Backlight Effect) -->
-  <div style="background: #0d1117; border-radius: 20px; padding: 50px; margin: 15px; display: inline-block; border: 2px solid #30363d; width: 85%; max-width: 1000px; box-shadow: 0 0 30px rgba(0,0,0,0.5);">
-    <h4 style="color: #ffffff; margin: 0 0 40px 0; font-size: 28px; text-align: left; border-bottom: 3px solid #61dafb; display: inline-block; text-shadow: 0 0 10px #61dafb;">🎨 Frontend & Design</h4>
-    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 50px;">
-      <!-- Filter: White Backlight Halo + High Brightness -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" title="React" width="100" height="100" style="filter: drop-shadow(0 0 15px rgba(255,255,255,0.8));" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML5" title="HTML5" width="100" height="100" style="filter: drop-shadow(0 0 15px rgba(255,255,255,0.8));" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS3" title="CSS3" width="100" height="100" style="filter: drop-shadow(0 0 15px rgba(255,255,255,0.8));" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" title="JavaScript" width="100" height="100" style="filter: drop-shadow(0 0 15px rgba(255,255,255,0.8));" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" title="Tailwind" width="100" height="100" style="filter: drop-shadow(0 0 15px rgba(255,255,255,0.8));" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" title="Bootstrap" width="100" height="100" style="filter: drop-shadow(0 0 15px rgba(255,255,255,0.8));" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="100" height="100" style="filter: drop-shadow(0 0 15px rgba(255,255,255,0.8));" />
-    </div>
-  </div>
-
-  <br>
-
-  <!-- Backend Logos (Backlight Effect) -->
-  <div style="background: #0d1117; border-radius: 20px; padding: 50px; margin: 15px; display: inline-block; border: 2px solid #30363d; width: 85%; max-width: 1000px; box-shadow: 0 0 30px rgba(0,0,0,0.5);">
-    <h4 style="color: #ffffff; margin: 0 0 40px 0; font-size: 28px; text-align: left; border-bottom: 3px solid #3776AB; display: inline-block; text-shadow: 0 0 10px #3776AB;">⚙️ Backend & Database</h4>
-    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 50px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" title="Python" width="100" height="100" style="filter: drop-shadow(0 0 15px rgba(255,255,255,0.8));" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="Django" title="Django" width="100" height="100" style="filter: drop-shadow(0 0 15px rgba(255,255,255,0.8));" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="Flask" title="Flask" width="100" height="100" style="filter: drop-shadow(0 0 15px rgba(255,255,255,0.8));" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" width="100" height="100" style="filter: drop-shadow(0 0 15px rgba(255,255,255,0.8));" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" title="MongoDB" width="100" height="100" style="filter: drop-shadow(0 0 15px rgba(255,255,255,0.8));" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" title="Firebase" width="100" height="100" style="filter: drop-shadow(0 0 15px rgba(255,255,255,0.8));" />
-    </div>
-  </div>
-
-  <br>
-
-  <!-- DevOps Logos (Backlight Effect) -->
-  <div style="background: #0d1117; border-radius: 20px; padding: 50px; margin: 15px; display: inline-block; border: 2px solid #30363d; width: 85%; max-width: 1000px; box-shadow: 0 0 30px rgba(0,0,0,0.5);">
-    <h4 style="color: #ffffff; margin: 0 0 40px 0; font-size: 28px; text-align: left; border-bottom: 3px solid #FF9900; display: inline-block; text-shadow: 0 0 10px #FF9900;">🛠️ Tools & DevOps</h4>
-    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 50px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" width="100" height="100" style="filter: drop-shadow(0 0 15px rgba(255,255,255,0.8));" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" title="Docker" width="100" height="100" style="filter: drop-shadow(0 0 15px rgba(255,255,255,0.8));" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" title="Git" width="100" height="100" style="filter: drop-shadow(0 0 15px rgba(255,255,255,0.8));" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="100" height="100" style="filter: drop-shadow(0 0 15px rgba(255,255,255,0.8));" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" title="WordPress" width="100" height="100" style="filter: drop-shadow(0 0 15px rgba(255,255,255,0.8));" />
-    </div>
-  </div>
-</div>
-
-<br/>
-<br/>
-
-<!-- Analytics Dashboard with High Contrast Borders -->
-<h2 align="center" style="color: #ffffff; font-size: 35px; text-shadow: 0 0 20px #ffffff;">
-  📊 ANALYTICS DASHBOARD
-</h2>
-<p align="center" style="color: #ffffff; font-size: 20px; font-weight: bold; text-shadow: 0 0 5px white;">Real-time Performance Metrics</p>
-
-<table align="center" cellspacing="20" style="margin-top: 20px;">
-  <tr>
-    <!-- Main Stat Card -->
-    <td align="center" style="background: #0d1117; border-radius: 15px; padding: 20px; box-shadow: 0 0 20px rgba(255,255,255,0.1); border: 2px solid #ffffff;">
-      <img src="https://github-readme-stats.vercel.app/api?username=1saptarshi&show_icons=true&locale=en&theme=github_dark&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=00e5ff&border_color=30363d" alt="Stats" />
-    </td>
-    <!-- Langs Card -->
-    <td align="center" style="background: #0d1117; border-radius: 15px; padding: 20px; box-shadow: 0 0 20px rgba(255,255,255,0.1); border: 2px solid #ffffff;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1saptarshi&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&text_color=ffffff&border_color=30363d" alt="Top Langs" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" style="background: #0d1117; border-radius: 15px; padding: 20px; border: 2px solid #ffffff;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=1saptarshi&theme=github_dark&hide_border=true&background=0D1117&border=30363D&dates=ffffff&currStreakLabel=00e5ff&fire=d500f9&sideNums=ffffff&sideLabels=ffffff" alt="Streak" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- Footer Links -->
 <div align="center">
-  <table style="background: #0d1117; border-radius: 15px; padding: 20px; width: 80%; border: 2px solid #ffffff; box-shadow: 0 0 20px rgba(255,255,255,0.2);">
-    <tr>
-      <td align="center">
-        <h3 style="color: #ffffff; font-size: 26px; text-shadow: 0 0 15px #fff;">Connect with the Developer</h3>
-        <div style="margin-top: 15px;">
-          <a href="https://linkedin.com/in/saptarshi-chowdhury-ba1972234/">
-             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-          </a>
-          <a href="https://medium.com/@1saptarshichowdhury">
-             <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-          </a>
-          <a href="https://stackoverflow.com/users/25403524/saptarshi-chowdhury">
-             <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-          </a>
-          <a href="https://codeforces.com/profile/saptarshichowdhury">
-             <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-          </a>
-          <a href="https://buymeacoffee.com/1Saptarshi">
-             <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-          </a>
-        </div>
-      </td>
-    </tr>
-  </table>
+<h3>Support:</h3>
+<a href="https://www.buymeacoffee.com/1Saptarshi">
+<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=1Saptarshi&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />
+</a>
 </div>
+<table>
+<tr>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=1saptarshi&show_icons=true&locale=en&layout=compact" alt="1saptarshi" />
+</td>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=1saptarshi&show_icons=true&locale=en" alt="1saptarshi" />
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="https://vaunt.dev">
+<img src="https://api.vaunt.dev/v1/github/entities/1saptarshi/contributions?format=svg" width="350" title="Includes public contributions" />
+</a>
+</td>
+<td align="center">
 
-<br/>
-<!-- Footer with High Visibility Logo -->
-<div align="center" style="background: linear-gradient(90deg, #0d1117, #161b22, #0d1117); padding: 20px; border-top: 2px solid #ffffff; border-radius: 15px;">
-  <table style="margin: 0 auto;">
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <img src="https://cdn-icons-png.flaticon.com/128/5900/5900699.png" alt="Lightning" width="45" style="vertical-align: middle; margin-right: 10px; filter: drop-shadow(0 0 10px #fff);">
-        <span style="color: #ffffff; font-size: 20px; font-weight: 900; vertical-align: middle; text-shadow: 0 0 15px #d500f9; letter-spacing: 1px;">
-          Designed by Saptarshi Chowdhury
-        </span>
-        <img src="https://cdn-icons-png.flaticon.com/128/5900/5900699.png" alt="Lightning" width="45" style="vertical-align: middle; margin-left: 10px; filter: drop-shadow(0 0 10px #fff);">
-      </td>
-    </tr>
-  </table>
-</div>
-```
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=1saptarshi&theme=prussian)](https://git.io/streak-stats)
+
+</td>
+</tr>
+<h3 align="center">A passionate WEB developer from India</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1saptarshi" alt="1saptarshi" /></a> </p>
+</p>
+
+
+</table>
